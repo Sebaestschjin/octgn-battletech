@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <blocks>
+    <block type="text" id="name">
+      <location x="110" y="12"/>
+      <text color="#000000" size="20"/>
+      <wordwrap height="35" width="245" shrinktofit="True"/>
+    </block>
+    <block type="text" id="basecost">
+      <location x="32" y="18"/>
+      <text color="#000000" size="16"/>
+    </block>
+    <block type="text" id="acost">
+      <location x="32" y="58"/>
+      <text color="#000000" size="16"/>
+    </block>
+    <block type="text" id="lcost">
+      <location x="32" y="89"/>
+      <text color="#000000" size="16"/>
+    </block>
+    <block type="text" id="mcost">
+      <location x="32" y="120"/>
+      <text color="#000000" size="16"/>
+    </block>
+    <block type="text" id="pcost">
+      <location x="32" y="151"/>
+      <text color="#000000" size="16"/>
+    </block>
+    <block type="text" id="tcost">
+      <location x="32" y="182"/>
+      <text color="#000000" size="16"/>
+    </block>
+    <block type="text" id="speed">
+      <location x="32" y="410"/>
+      <text color="#FF0000" size="16"/>
+    </block>
+    <block type="text" id="attack">
+      <location x="32" y="462"/>
+      <text color="#000000" size="16"/>
+    </block>
+    <block type="text" id="armor">
+      <location x="21" y="504"/>
+      <text color="#000000" size="16"/>
+    </block>
+    <block type="text" id="structure">
+      <location x="48" y="504"/>
+      <text color="#000000" size="16"/>
+    </block>
+    <block type="text" id="keywords">
+      <location x="124" y="370"/>
+      <text color="#000000" size="14"/>
+    </block>
+    <block type="text" id="gametext">
+      <location x="115" y="400"/>
+      <text color="#000000" size="14"/>
+      <wordwrap height="130" width="225" shrinktofit="True"/>
+    </block>
+  </blocks>
+  <template src="Proxies/unit.jpg" default="True">
+    <matches>
+      <match name="Type" value="Unit" />
+    </matches>
+    <textblocks>
+      <link block="name"><property name="Name" /></link>
+      <link block="basecost"><property name="Cost" /></link>
+      <link block="acost"><property name="A" /></link>
+      <link block="lcost"><property name="L" /></link>
+      <link block="mcost"><property name="M" /></link>
+      <link block="pcost"><property name="P" /></link>
+      <link block="tcost"><property name="T" /></link>
+      <link block="speed"><property name="Speed" /></link>
+      <link block="attack"><property name="Attack" /></link>
+      <link block="armor"><property name="Armor" /></link>
+      <link block="structure"><property name="Structure" /></link>
+      <link block="keywords"><property name="Allegiance" /></link>
+      <link block="gametext"><property name="Text" /></link>
+    </textblocks>
+  </template>
+  <!-- -->
+</templates>

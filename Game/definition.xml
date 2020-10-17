@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game name="Battletech - The Trading Card Game"
+      description="The Battletech TCG"
+      version="1.1.2.0"
+      id="845bfe7f-477e-4c53-9526-6ffe2ceeb5d9"
+      tags="battletech mech"
+      setsurl="http://www.example.org"
+      gameurl="http://www.example.org"
+      iconurl="https://raw.github.com/kellyelton/Standard-Playing-Cards-Octgn/master/src/images/icon.jpg"
+      authors="Codegenerathor"
+      octgnVersion="3.4.217.0"
+      scriptVersion="3.1.0.2"
+      markersize="25">
+
+  <scripts>
+    <script src="Scripts/hand_actions.py" />
+    <script src="Scripts/pile_actions.py" />
+    <script src="Scripts/table_actions.py" />
+    <script src="Scripts/events.py" />
+  </scripts>
+
+  <events>
+    <event name="OnCardsMoved" action="hide_moved_cards" />
+  </events>
+
+  <sounds />
+
+  <fonts />
+
+  <symbols>
+  </symbols>
+
+  <markers>
+     <marker name="Damage" id="6d9eb2c3-698c-4386-ad16-3d19e2b61661"
+             src="Resources/damage.png" />
+     <marker name="Construction" id="e43de45b-a83a-4455-bac9-95276c57d5a9"
+             src="Resources/construction.png" />
+  </markers>
+
+  <proxygen definitionsrc="Proxies/proxydef.xml" />
+
+  <phases>
+    <phase name="Untap" icon="Resources/deck.png" />
+    <phase name="Draw" icon="Resources/deck.png" />
+    <phase name="Repair/Reload" icon="Resources/deck.png" />
+    <phase name="Deploy" icon="Resources/deck.png" />
+    <phase name="Mission" icon="Resources/deck.png" />
+  </phases>
+
+  <documents />
+
+  <gameModes />
+
+  <globalvariables />
+
+  <card front="Resources/card.jpg" back="Resources/card.jpg"
+        width="63" height="88" cornerRadius="2">
+    <property name="Type" type="String" />
+    <property name="Rarity" type="String" />
+    <property name="Cost" type="Integer" />
+    <property name="A" type="Integer" />
+    <property name="L" type="Integer" />
+    <property name="M" type="Integer" />
+    <property name="P" type="Integer" />
+    <property name="T" type="Integer" />
+    <property name="Allegiance" type="String" />
+    <property name="Speed" type="String" />
+    <property name="Structure" type="Integer" />
+    <property name="Armor" type="Integer" />
+    <property name="Attack" type="Integer" />
+    <property name="Text" type="RichText" />
+  </card>
+
+  <table name="War" visibility="undefined"
+         width="800" height="650"
+         background="Resources/war.jpg" backgroundStyle="uniformToFill">
+    <cardaction menu="Tap"
+                default="True"
+                execute= "tap_card" />
+    <cardaction menu="Deplete"
+                shortcut="ctrl+d"
+                getName="deplete_card_name"
+                execute="deplete_card" />
+    <cardactions menu="Add...">
+      <cardaction menu="Damage"
+                  shortcut="f1"
+                  execute="add_damage" />
+      <cardaction menu="Construction"
+                  shortcut="f2"
+                  execute="add_construction" />
+      <cardaction menu="Other"
+                  execute="add_other" />
+    </cardactions>
+    <cardactions menu="Remove...">
+      <cardaction menu="Damage"
+                  shortcut="f3"
+                  execute="remove_damage" />
+      <cardaction menu="Construction"
+                  shortcut="f4"
+                  execute="remove_construction" />
+      <cardaction menu="Other"
+                  execute="remove_other" />
+    </cardactions>
+    <!-- standard card actions -->
+    <cardseparator />
+    <cardactions menu="Change Cards">
+      <cardaction menu="Rotate Sideways/Upright"
+                  batchExecute="rotate_cards" />
+      <cardaction menu="Flip Face Up/Down"
+                  shortcut="ctrl+f"
+                  batchExecute="flip_cards" />
+      <cardaction menu="Add/Remove Highlight"
+                  shortcut="ctrl+A"
+                  batchExecute="highlight_cards" />
+    </cardactions>
+    <!-- standard table actions -->
+    <groupactions menu="Make a Decision">
+      <groupaction menu="Flip a Coin"
+                   execute="flip_coin" />
+      <groupaction menu="Roll a 6-sided Die"
+                   shortcut="ctrl+r"
+                   execute="roll_d6" />
+    </groupactions>
+  </table>
+
+  <player summary="Hand:{#Hand}">
+    <counter name="Initiative"
+             default="0"
+             icon="Resources/initiative.png"
+             reset="True" />
+    <group name="Hand" viewState="expanded"
+           visibility="me"
+           ordered="False"
+           shortcut="ctrl+H"
+           icon="Resources/hand.png">
+      <cardaction menu="Scrap"
+                  shortcut="del"
+                  execute="scrap_card" />
+      <groupaction menu="Randomly scrap a Card"
+                   execute="scrap_card_at_random" />
+    </group>
+    <group name="Stockpile" viewState="pile"
+           visibility="none"
+           ordered="True"
+           icon="Resources/deck.png">
+       <groupaction menu="Draw"
+                    shortcut="ctrl+D" default="True"
+                    execute="draw_card" />
+       <groupaction menu="Draw X Cards"
+                    shortcut="ctrl+shift+D"
+                    execute="draw_cards" />
+       <groupaction menu="Shuffle"
+                    shortcut="ctrl+S"
+                    execute="shuffle" />
+    </group>
+    <group name="Scrapheap" viewState="collapsed"
+           visibility="all"
+           ordered="False"
+           shortcut="del"
+           icon="Resources/scrapheap.png">
+       <groupaction menu="Move All Cards to Deck"
+                    execute="allToDeck" />
+    </group>
+    <group name="Side Deck" viewState="collapsed"
+           visibility="me"
+           ordered="True"
+           icon="Resources/deck.png">
+    </group>
+  </player>
+
+  <shared />
+
+  <deck>
+    <section name="Box Power" group="Hand" />
+    <section name="Resources" group="Stockpile" />
+    <section name="Commands" group="Stockpile" />
+    <section name="Units" group="Stockpile" />
+    <section name="Missions" group="Stockpile" />
+    <section name="Side Deck" group="Side Deck" />
+  </deck>
+</game>

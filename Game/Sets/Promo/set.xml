@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set gameId="845bfe7f-477e-4c53-9526-6ffe2ceeb5d9" gameVersion="1.1.0.0" id="9e50cda2-70a7-46ac-bbff-6f35525fe236" name="Promo" version="1.0"><cards><card id="2d399cad-72c0-4bb3-afc9-b3a74402e4eb" name="Double Overtime"><property name="Type" value="Command"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Reveal one of your Units under construction. Double the number of constructions counters on that card.
+
+</property><property name="Cost" value="0"/></card></cards></set>

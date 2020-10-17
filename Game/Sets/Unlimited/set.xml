@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set gameId="845bfe7f-477e-4c53-9526-6ffe2ceeb5d9" gameVersion="1.1.0.0" id="7dddd53c-24bd-4b30-8ed8-6345057ada0d" name="Unlimited" version="1.0"><cards><card id="edd54e15-e4f8-459b-914a-61d18ea4cb6d" name="Accurate Intelligence"><property name="Type" value="Mission"/><property name="Text">+1 initiative
+
+Choose one of your 'Mechs. That 'Mech gets +1 attack.
+
+</property></card><card id="f8116f32-525f-468f-896a-756aee329b66" name="Aerospace Fighter Mission"><property name="Type" value="Command"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Aerospace Fighter Mission when it is revealed.
+
+Deal 5 damage divided any way you choose among any number of 'Mechs and/or sites.
+
+</property><property name="Cost" value="6"/><property name="P" value="5"/></card><card id="54255c00-136d-4792-a154-1b89daf91595" name="Alex Mallory"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - - Inner Sphere - Davion"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">{T}: Look at opponent's hand and choose a card. Opponent restocks that card and draws a card. Use this ability only during your Missions phase but not during a mission.
+
+Scrap Alex Mallory to roll a die: 1-6, gain +(1-6) resources. Use this ability only during your Deploy phase.
+
+&lt;b&gt;• Deputy Secretary Federated Commonwealth Ministry of Intelligence&lt;/b&gt;</property><property name="Cost" value="3"/><property name="T" value="3"/><property name="P" value="3"/></card><card id="c67332aa-9fb1-49b1-96a1-b2b2c22fda6d" name="Ambush!"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Ambush! when it is revealed.
+
+You may activate Ambush! when opponent attacks.
+
+Deal 1 damage to each attacking 'Mech for each 1 construction above the cost of Ambush!  Use this effect only during a mission.
+
+</property><property name="Cost" value="4"/><property name="T" value="4"/></card><card id="5c4f70bd-d627-4e2e-a2f4-612e13a0a6e3" name="Ammo Explosion"><property name="Type" value="Mission"/><property name="Text">Play only during battle.
+
+Choose a 'Mech. Roll a die: 1-3, no effect; 4-6, that 'Mech receives damage equal to its base attack. This damage cannot be prevented.  That 'Mech may still deal damage.
+
+&amp;lt;i&amp;gt;One lucky shot to her machine gun ammo was all it took&amp;mdash;200 rounds does a lot of damage when it all hits in one place.''|MechWarrior Eric Cosby, The Outlaws&amp;lt;/i&amp;gt;</property></card><card id="c58bc4c3-bd57-45cf-b8d0-f18cbd6cc489" name="Arms Reduction"><property name="Type" value="Command"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Arms Reduction when it is revealed.
+
+Players cannot spend more than {R}{R} on construction each turn until any one player pays 5/3P during his or her Deploy phase.
+
+&amp;lt;i&amp;gt;History proves that no war ever ended by arms reduction, and this conflict was no exception.&amp;lt;i&amp;gt;|Precentor Martial Anastasius Focht, &amp;lt;/i&amp;gt;The Gallant Defense of Mankind&amp;lt;/i&amp;gt;</property><property name="Cost" value="3"/><property name="P" value="8"/></card><card id="2c951764-33a8-40de-aadf-29153f5ceb09" name="Arrow IV Battery"><property name="Type" value="Command"/><property name="Allegiance" value="Artillery"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">{T}: Deal 1 structure damage to one site. Use this ability only during your Missions phase but not during a mission.
+
+</property><property name="Cost" value="1"/><property name="M" value="1"/><property name="L" value="1"/></card><card id="e6046eb1-51f0-4ceb-b16c-1c1f0606ec33" name="Assassin (ASN-21)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="F"/><property name="Structure" value="4"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;The uncommon &amp;lt;i&amp;gt;Assassin&amp;lt;/i&amp;gt; is coveted for its prodigious jump capability.&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="a8c45096-35ea-4085-b758-6bd4e2727bc9" name="Atlas (AS7-D)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="11"/><property name="Armor" value="3"/><property name="Attack" value="3"/><property name="Text">Missile 1
+
+Alpha Strike: +2 attack
+
+&amp;lt;i&amp;gt;The menacing visage of the &amp;lt;i&amp;gt;Atlas&amp;lt;/i&amp;gt; is feared throughout known space.&amp;lt;/i&amp;gt;</property><property name="Cost" value="7"/><property name="L" value="1"/></card><card id="beeed0c1-fb61-4292-9c9e-1567c93a3aa0" name="Atlas (AS7-K)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="S"/><property name="Structure" value="11"/><property name="Armor" value="3"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Missile&lt;/b&gt; 1
+
+&lt;b&gt;Overheat&lt;/b&gt; 4: +4 attack
+
+&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group that includes Atlas deals -1 damage.)</property><property name="Cost" value="7"/><property name="A" value="2"/><property name="L" value="2"/><property name="M" value="1"/></card><card id="b34bdd2a-7fc7-4852-946a-44470f979220" name="Awesome (AWS-8Q)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="10"/><property name="Armor" value="3"/><property name="Attack" value="4"/><property name="Text">If the &amp;lt;i&amp;gt;Awesome&amp;lt;/i&amp;gt; attacks and is blocked, it may deal 1 of its damage to the target.
+
+&amp;lt;i&amp;gt;The&amp;lt;i&amp;gt; Awesome&amp;lt;/i&amp;gt;'s massive armament has earned it a fierce reputation&amp;lt;/i&amp;gt;</property><property name="Cost" value="6"/></card><card id="30acd6ac-5a79-46f2-9b47-5553210f8f7d" name="Awesome (AWS-9M)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Marik"/><property name="Speed" value="S"/><property name="Structure" value="10"/><property name="Armor" value="3"/><property name="Attack" value="4"/><property name="Text">&lt;b&gt;Overheat&lt;/b&gt; 2: +2 attack
+
+&amp;lt;i&amp;gt;Many consider the AWS-9M upgrade inferior to the original ''Awesome'&amp;lt;/i&amp;gt;</property><property name="Cost" value="7"/><property name="A" value="1"/></card><card id="a24b4c18-e774-4448-9ad8-5f25554d1870" name="Axman (AXM-1N)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion - Steiner"/><property name="Speed" value="S"/><property name="Structure" value="6"/><property name="Armor" value="3"/><property name="Attack" value="4"/><property name="Text">Alpha Strike: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+If &amp;lt;i&amp;gt;Axman&amp;lt;/i&amp;gt; engages in battle with at least one slow 'Mech, &amp;lt;i&amp;gt;Axman&amp;lt;/i&amp;gt; deals +1 damage to one of those slow 'Mechs.</property><property name="Cost" value="6"/></card><card id="5adf53c5-6bfa-4d01-ac44-5351e1d970a9" name="Banshee (BNC-3E)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="9"/><property name="Armor" value="3"/><property name="Attack" value="2"/><property name="Text">&amp;lt;i&amp;gt;The unpopular BNC-3E lacks adequate firepower for an assault 'Mech&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/></card><card id="0ff966cd-89be-44df-8658-e1f6b99029b0" name="Banshee (BNC-5S)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion - Steiner"/><property name="Speed" value="S"/><property name="Structure" value="9"/><property name="Armor" value="3"/><property name="Attack" value="5"/><property name="Text">&lt;b&gt;Overheat&lt;/b&gt; 4: +3 attack
+
+&amp;lt;i&amp;gt;An XL engine makes room for heavier weapons in the BNC-5S.&amp;lt;/i&amp;gt;</property><property name="Cost" value="8"/><property name="A" value="2"/></card><card id="8579b96f-939b-4670-8378-6cb7ff2333d2" name="Battalion Support"><property name="Type" value="Command"/><property name="Structure" value="1"/><property name="Armor" value="2"/><property name="Attack" value="0"/><property name="Text">Put five infantry counters on Battalion Support when you activate it.
+
+During your Deploy phase, you may pay {R} for each infantry counter you move to another site.  Each infantry counter adds +1 attack to that site.
+
+When that site is damaged, opponent may choose to redirect 1 damage to an infantry counter for each infantry counter on that site, scrapping those counters.</property><property name="Cost" value="3"/><property name="L" value="4"/></card><card id="d17b23cb-2637-4dad-9f7b-7c800792cf0c" name="Bearer of McKennsy Hammer"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot  -  Steiner - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">+1 initiative
+
+When 'Mech piloted by Bearer of McKennsy Hammer attacks or blocks, roll a die: 1-3, no effect; 4-6, untap that 'Mech at end of current mission.
+
+</property><property name="Cost" value="2"/><property name="T" value="2"/></card><card id="4306ff4f-ac39-4e37-9ada-d9c37c9528b1" name="Bjorn Jorgensson"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Pilot - Clan - Ghost Bear"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Counts as Bjorn Jorgensson while in play.
+
+{T}: One of your units has a +5 attack, only usable against targets other than Units. Use this ability only during a mission.
+
+&amp;lt;i&amp;gt;Being a warrior means killing your enemies, but equally important is knowing which of your enemies to kill.&amp;lt;i&amp;gt;|&amp;lt;/i&amp;gt;Clan Ghost Bear Officer's Manual&amp;lt;/i&amp;gt;
+
+&lt;b&gt;• Senior Khan&lt;/b&gt;</property><property name="Cost" value="3"/><property name="T" value="3"/></card><card id="7d2f44ae-2d27-40ce-a6d1-6c7840e6c236" name="Blackjack (BJ2)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion"/><property name="Speed" value="S"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="3"/><property name="Text">Overheat 1: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;Recovered technology gave new life to the previously lackluster ''Blackjack'&amp;lt;/i&amp;gt;</property><property name="Cost" value="3"/><property name="A" value="2"/></card><card id="080f7c8e-02f7-41da-a023-0e5f8266cd61" name="Black Hawk (A Nova)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="5"/><property name="Text">Overheat 2: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group
+that includes Black Hawk A deals -1 damage.)</property><property name="Cost" value="7"/><property name="A" value="1"/><property name="M" value="1"/><property name="T" value="1"/></card><card id="12c29f1f-4fa0-493d-9e55-8eee036ef624" name="Black Hawk (B Nova)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="4"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+If Black Hawk B attacks and is blocked, it may deal 1 of its
+damage to the target.
+
+&amp;lt;i&amp;gt;Configuration B features highly accurate, long-range weapons&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/></card><card id="4d58aab7-afc2-4e80-9e50-736d44acd65a" name="Black Hawk (D Nova)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Missile&lt;/b&gt; 2
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;The fire-support variant of the &amp;lt;i&amp;gt;Nova&amp;lt;/i&amp;gt; is rarely used&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="3"/></card><card id="c57afde1-b82d-4297-8976-63048ee0e3b6" name="Black Hawk (Prime Nova)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="7"/><property name="Text">&lt;b&gt;Overheat&lt;/b&gt; 4: +6 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;This deadly Omni carries more weapons than it can effectively use&amp;lt;/i&amp;gt;</property><property name="Cost" value="13"/><property name="M" value="2"/><property name="L" value="1"/></card><card id="1d59e291-d0fc-42eb-95ab-f6a875ea2949" name="Black Knight (BL6-KNT)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="8"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">Overheat 3: +3 attack
+
+&amp;lt;i&amp;gt;The rare &amp;lt;i&amp;gt;Black Knight&amp;lt;/i&amp;gt; carries a devastating array of lasers.&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/><property name="A" value="2"/></card><card id="40591a45-55a3-4ede-88d2-d7fdd8f03b05" name="Caesar (CES-3R)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion - Steiner"/><property name="Speed" value="S"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="5"/><property name="Text">&amp;lt;i&amp;gt;Still untested in battle, Johnston Industries' &amp;lt;i&amp;gt;Caesar&amp;lt;/i&amp;gt; looks promising&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="2"/><property name="M" value="1"/></card><card id="d938f2fe-f811-4b4e-ba93-d82591457960" name="Candace Liao"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Inner Sphere - St. Ives"/><property name="Structure" value="2"/><property name="Armor" value="4"/><property name="Attack" value="1"/><property name="Text">If Candace Liao is in play, all Subterfuge cards that are revealed are scrapped with no effect. 
+
+&amp;lt;i&amp;gt;She has all the Liao cunning and is sane, too. Pity, really; otherwise she might have murdered Romano as a child and saved us all a lot of trouble.|Colonel Jaime Wolf, Wolf's Dragoons&amp;lt;/i&amp;gt;
+
+&lt;b&gt;• Prime Minister of the St. Ives Compact&lt;/b&gt;</property><property name="Cost" value="4"/><property name="P" value="2"/></card><card id="78ebd4ff-f5d6-43a4-8a78-5166bf11c588" name="Cataphract (CTF-3D)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion"/><property name="Speed" value="S"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="4"/><property name="Text">Alpha Strike: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;This versatile heavy 'Mech is the pride of the Capellan military&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/></card><card id="5e546088-542b-4829-b366-bf7b6531845c" name="Catapult (CPLT-C3)"><property name="Type" value="Unit"/><property name="Allegiance" value="Artillery - Inner Sphere - Liao"/><property name="Speed" value="S"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">Overheat 2: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+{T}: Deal 1 damage to 'Mech or target. Use this ability only
+during a mission.</property><property name="Cost" value="5"/></card><card id="053becaf-901b-4010-a7c6-7ee65a0c30b6" name="Caught in Hangar"><property name="Type" value="Command"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Caught in Hangar when it is revealed.
+You may activate Caught in Hangar during your Missions
+phase but not during a mission.  Choose a 'Mech opponent
+controls.  That 'Mech may be attacked, regardless of its
+speed.
+
+&amp;lt;i&amp;gt;It's shooting fish in a barrel. A 'Mech's a big fish, but a hangar still feels like a pretty small barrel.|Sergeant Marty Rumble, 10th Lyran Guards, Skondia, 17 July 3049&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="T" value="4"/></card><card id="9cdf9e92-f739-4ef6-9b48-4e3f873a77bb" name="Centurion (CN9-A)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Alpha Strike: +1 attack
+
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Centurion&amp;lt;/i&amp;gt; is best known for making slow, steady advances&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/></card><card id="6e7d4697-33a4-4c6a-b4d1-1a68d1570740" name="Centurion (CN9-D)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Alpha Strike: +2 attack
+
+&amp;lt;i&amp;gt;The upgraded CN9-D moves quickly, thanks to an extra light engine&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="2"/></card><card id="957906a4-095d-4128-8b7b-181c005f452e" name="Chaparral Missile Tank"><property name="Type" value="Command"/><property name="Allegiance" value="Artillery - Inner Sphere"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">{T}: Deal 1 structure damage to one 'Mech. Use this ability only during battle.
+
+</property><property name="Cost" value="1"/><property name="M" value="2"/><property name="L" value="2"/></card><card id="f969aee3-52cf-4f3f-9979-c8a79e408e38" name="Charger (CGR-1A1)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="1"/><property name="Text">&amp;lt;i&amp;gt;Kurita surpluses guarantee its use in combat despite poor performance&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/><property name="P" value="1"/></card><card id="d42b1f8c-b3ed-4434-887c-fdadcdaaa252" name="Cicada (CDA-2A)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="F"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">&amp;lt;i&amp;gt;Fast but lightly armed, the CDA-2A remains rare.&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="1"/></card><card id="b9345402-1b1d-436a-b376-1cb14bf1085f" name="Cicada (CDA-3M)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Marik"/><property name="Speed" value="F"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="2"/><property name="Text">&amp;lt;i&amp;gt;Factories on Gibson have begun producing the up-gunned CDA-3M&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/></card><card id="b80c21f7-a8cf-4c8d-b07c-7e840e93f076" name="Clint (CLNT-2-3T)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Clint&amp;lt;/i&amp;gt; is an efficient scout but is difficult to repair&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/></card><card id="31f35b6c-f778-4f35-8028-9c426cefdf8a" name="Clint (CLNT-2-3U)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Liao"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Overheat 2: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;Serious heat problems plague this otherwise excellent scout 'Mech.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="3"/></card><card id="5361d47d-5df2-4078-997f-c294f474260c" name="Combat Engineers"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="2"/><property name="Text">Play Combat Engineers only on a site.
+Site Combat Engineers enhances gets +2 attack.  When that
+site is damaged, attacker may choose to redirect 5 of that
+damage to Combat Engineers, scrapping it.
+
+You may move Combat Engineers to a different site during
+your Deploy phase.  You may deploy Combat Engineers
+revealed to make an additional deployment this turn.</property><property name="Cost" value="3"/><property name="M" value="2"/><property name="L" value="3"/></card><card id="cf6e2716-dfe5-4861-9bfe-a6c2a491d8aa" name="Commando (COM-2D)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Steiner"/><property name="Speed" value="M"/><property name="Structure" value="2"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">&amp;lt;i&amp;gt;House Steiner is proud of this hard-hitting scout 'Mech.&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="cfaef4a9-ff3b-4040-9d84-1429b92d45e3" name="Communications Blackout"><property name="Type" value="Command"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Communications Blackout when it is revealed.
+
+Until the beginning of your next turn, no player may play Mission cards.
+
+&amp;lt;i&amp;gt;Well, men, I guess we just sit tight until HQ comes back on line.&amp;lt;i&amp;gt;|&amp;lt;/i&amp;gt;Chu-i'' David Ralph, 11th Pesht Regulars, Teniente, 20 Jan 3052&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/></card><card id="8c8b288e-f589-4d15-839b-460a754b8107" name="Communications Failure"><property name="Type" value="Mission"/><property name="Text">Put a static counter on each attacking 'Mech. Each time a 'Mech with a static counter would normally untap, roll die: 1-3, 'Mech remains tapped; 4-6, untap that 'Mech and remove all static counters.
+
+</property></card><card id="49a1e32c-782e-4f41-b0b1-363dbad4ffbd" name="Comstar Bank Account"><property name="Type" value="Command"/><property name="Allegiance" value="Resource  -  Inner Sphere"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">{T}: Put a deposit counter on ComStar Bank Account. Use this ability only during your Deploy phase.
+
+{T}: {R}, plus {R} for each deposit counter you remove from
+ComStar Bank Account.
+
+&amp;lt;i&amp;gt;Entrust your House bills to our blessed accounts.&amp;lt;i&amp;gt;|&amp;lt;/i&amp;gt;Ad for ComStar Financial Affairs Branch&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="2"/></card><card id="f27cdbce-a3bb-403b-bc8e-059f26bd5a98" name="Contract with Gray Death Legion"><property name="Type" value="Command"/><property name="Allegiance" value="Mercenary - Unique  -  Inner Sphere"/><property name="Structure" value="4"/><property name="Armor" value="2"/><property name="Attack" value="2"/><property name="Text">{T}: One of your 'Mechs gets +3 attack and +2 armor. Use this ability only during a mission. If that 'Mech receives 5 or more damage, scrap Contract with Gray Death Legion.
+During your Repair/Reload phase, pay 1/2P or tap Contract
+with Gray Death Legion and choose an opponent. That
+opponent gains control of Contract with Gray Death Legion.</property><property name="Cost" value="1"/><property name="P" value="6"/></card><card id="f09a66e4-5b11-4675-bd27-d9f87b4dd9bc" name="Contract with Wolf's Dragoons"><property name="Type" value="Command"/><property name="Allegiance" value="Mercenary - Unique - Inner Sphere"/><property name="Structure" value="4"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">{T}: One of your 'Mechs gets +4 attack and +4 armor. Use this ability only during a mission. If that 'Mech receives 5 or more damage, scrap Contract with Wolf's Dragoons. 
+
+During your Repair/Reload phase, pay 1/2P or tap Contract with Wolf's Dragoons and choose an opponent. That opponent gains control of Contract with Wolf's Dragoons.</property><property name="Cost" value="5"/><property name="P" value="6"/></card><card id="973b5d60-a645-467f-b6ad-f02e33b44083" name="Coventry Metal Works"><property name="Type" value="Command"/><property name="Allegiance" value="Resource - Steiner - Inner Sphere"/><property name="Structure" value="2"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+
+{T}: Reroll one of your missile die rolls. Use this ability immediately after rolling the missile die roll.
+
+&lt;b&gt;Munitions&lt;/b&gt; (If you have Munitions in play and you roll a 3 on a missile roll, that missile volley deals 3 damage.)</property><property name="Cost" value="0"/><property name="P" value="2"/></card><card id="7c2d5fe3-8755-4ee8-8b93-b2b6f3357c70" name="Critical Hit"><property name="Type" value="Mission"/><property name="Text">Play only during battle.
+
+Choose one of your 'Mechs.  Roll a die: 1-5, return Critical Hit to your hand after mission; 6, your 'Mech gets +6 attack.
+
+</property></card><card id="f53ab36b-bb65-41b8-8d08-a16ce0ef4548" name="Crockett (CRK-5003-1)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="9"/><property name="Armor" value="3"/><property name="Attack" value="5"/><property name="Text">Overheat 1: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;Created as a training 'Mech, the &amp;lt;i&amp;gt;Crockett&amp;lt;/i&amp;gt; has exceeded all expectations.&amp;lt;/i&amp;gt;</property><property name="Cost" value="7"/><property name="A" value="2"/></card><card id="dd7faa42-b60b-409b-8146-1918a1550f81" name="Culling"><property name="Type" value="Command"/><property name="Allegiance" value="Jade Falcon - Clan"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Culling when it is revealed and remove it from the game.
+
+Restock the top card from your Scrapheap for each 3 construction above the cost of Culling.
+
+</property><property name="Cost" value="3"/><property name="P" value="3"/></card><card id="f92b3cf6-9586-48d0-9575-0e447bfb64d4" name="Cyclops (CP11A)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="4"/><property name="Text">Alpha Strike: +1 attack
+
+&amp;lt;i&amp;gt;Popular as a command vehicle, the &amp;lt;i&amp;gt;Cyclops&amp;lt;/i&amp;gt; is rare elsewhere.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="1"/></card><card id="483b45bb-517c-4f5c-94c1-b9c1053fd8f4" name="Daishi A (Dire Wolf)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Smoke Jaguar"/><property name="Speed" value="S"/><property name="Structure" value="11"/><property name="Armor" value="4"/><property name="Attack" value="12"/><property name="Text">&lt;b&gt;Anti-missile&lt;/b&gt; Each missile assigned to a 'Mech in a group that includes
+Daishi A deals -1 damage.
+If Daishi A attacks and is blocked, it may deal up to 4 of its
+damage to the target.</property><property name="Cost" value="17"/><property name="A" value="5"/><property name="M" value="5"/><property name="L" value="5"/></card><card id="c365e6f9-596b-4947-9f43-24eea87df082" name="Dasher C (Firemoth)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Ghost Bear"/><property name="Speed" value="F"/><property name="Structure" value="2"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Missile 1
+
+&lt;b&gt;Anti-missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group that includes
+Dasher C deals -1 damage)
+
+If &amp;lt;i&amp;gt;Dasher&amp;lt;/i&amp;gt; C is fully constructed when you reveal it, you may
+immediately place it in your Patrol region.</property><property name="Cost" value="0"/><property name="A" value="1"/></card><card id="2ac9343e-5c45-4d54-a0ee-9680441016bc" name="Dasher D (Firemoth)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Ghost Bear"/><property name="Speed" value="F"/><property name="Structure" value="2"/><property name="Armor" value="0"/><property name="Attack" value="3"/><property name="Text">&lt;b&gt;Overheat&lt;/b&gt; 1: +3 attack
+
+If &amp;lt;i&amp;gt;Dasher&amp;lt;/i&amp;gt; D is fully constructed when you reveal it, you
+may immediately place it in your Patrol region.
+
+&amp;lt;i&amp;gt;Five lasers linked to a targeting computer provide devastating firepower&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="2"/><property name="M" value="1"/><property name="T" value="1"/></card><card id="8456452b-4c39-496a-a933-26fdaf9d80da" name="Dasher Prime (Firemoth)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="F"/><property name="Structure" value="2"/><property name="Armor" value="0"/><property name="Attack" value="3"/><property name="Text">If &amp;lt;i&amp;gt;Dasher Prime&amp;lt;/i&amp;gt; is fully constructed when you reveal it,
+you may immediately place it in your Patrol region.
+
+&amp;lt;i&amp;gt;The Dasher has unmatched speed&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="2"/></card><card id="f4b42506-63de-48e6-b5d8-30b4add3585d" name="Death Commando Strike"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge - Liao - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Death Commando Strike when it is revealed.
+
+Scrap one card in play other than a 'Mech.
+
+</property><property name="Cost" value="5"/><property name="P" value="6"/></card><card id="2b2f1ae8-74c9-4f9b-aa16-1ba2b8e50a19" name="Death From Above"><property name="Type" value="Mission"/><property name="Allegiance" value="Inner Sphere"/><property name="Text">Choose one of your 'Mechs with Jump. Roll a die: 1, that 'Mech receives 1 damage and return Death From Above to your hand after mission; 2-6, roll one die. If your 'Mech is 60 tons or more, roll an additional die. Your 'Mech and an engaged 'Mech opponent controls each receive that much damage.</property></card><card id="bbd39f14-efed-4cb7-acd8-19870efbf747" name="Dervish (DV-6M)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="1"/><property name="Text">Missile 1
+
+Overheat 2: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;This 'Mech performs well as a mobile fire-support unit&amp;lt;/i&amp;gt;</property><property name="Cost" value="3"/></card><card id="425332ef-99e5-4dc2-b6cc-9bf33a0225d2" name="Dervish (DV-7D)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion"/><property name="Speed" value="M"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Missile 1
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;This Davion upgrade gained armor protection and advanced targeting systems.&amp;lt;/i&amp;gt;</property><property name="Cost" value="3"/><property name="A" value="1"/></card><card id="f31fcfb0-956a-4468-8991-aec2818e63ba" name="DEST Pilot"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot - Kurita - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Pilot:&lt;/b&gt; +1 initiative, +2 attack
+
+If 'Mech piloted by DEST Pilot is scrapped, roll a die: 1-4, no effect; 5-6, return DEST Pilot to your hand.
+
+</property><property name="Cost" value="3"/><property name="T" value="4"/></card><card id="c088d8dd-86e4-4b90-ae66-7b3fc81c44ca" name="Dragonfly A (Viper)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Ghost Bear"/><property name="Speed" value="F"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="4"/><property name="Text">Overheat 2: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;This &amp;lt;i&amp;gt;Dragonfly&amp;lt;/i&amp;gt; is well-equipped for close encounters.&amp;lt;/i&amp;gt;</property><property name="Cost" value="6"/><property name="A" value="3"/><property name="M" value="1"/></card><card id="a0d9f494-bfa6-4239-8df5-4b6d5401b034" name="Dragonfly B (Viper)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Ghost Bear"/><property name="Speed" value="F"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="3"/><property name="Text">Overheat 2: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;With only one main weapon, this configuration is not popular.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="1"/></card><card id="b8d858be-f176-40f5-977f-673d2f7cf227" name="Dragonfly C (Viper)"><property name="Type" value="Unit"/><property name="Allegiance" value="AP - Clan - Omni - Ghost Bear"/><property name="Speed" value="F"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="3"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;AP&lt;/b&gt; (&amp;lt;i&amp;gt;Dragonfly&amp;lt;/i&amp;gt; C deals +1 damage to any target other than a
+'Mech).
+
+&amp;lt;i&amp;gt;The Omni's anti-personnel weaponry is well suited to urban fighting&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="2"/></card><card id="01c41e2b-9276-4976-ac72-28e42ea35b7a" name="Dragonfly D (Viper)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Ghost Bear"/><property name="Speed" value="F"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="4"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;This configuration carries a variety of weapons for any situation.&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/><property name="A" value="1"/></card><card id="6c182e10-28fd-431d-b5ca-94eb4a0155dc" name="Dragonfly Prime (Viper)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="F"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="3"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;Anti-missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group that includes
+Dragonfly Prime deals -1 damage)
+
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Dragonfly&amp;lt;/i&amp;gt; earned its name from its erratic and speedy movement.&amp;lt;/i&amp;gt;</property><property name="Cost" value="3"/><property name="A" value="2"/><property name="M" value="1"/><property name="T" value="2"/></card><card id="6bf3c9c4-cffb-4610-a93c-8bb139e9bc2e" name="Dragon (DRG-1N)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Dragon&amp;lt;/i&amp;gt; is fast but insufficiently armed for a heavy 'Mech&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/></card><card id="14986c77-a1a0-4fdf-82a5-da77665cde6d" name="Dropship Site"><property name="Type" value="Command"/><property name="Structure" value="6"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">{R}, {T}: Draw a card. Use this ability only during your
+Draw phase.
+
+&amp;lt;i&amp;gt;A battalion of the finest 'Mechs is not worth spit if you cannot get them to the combat zone.|Captain Jeroen Frestadt, 1st Somerset Strikers, DropShip Kwaidan&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="P" value="6"/><property name="L" value="2"/></card><card id="a12e05fc-c89e-4907-beda-125b9e7293d8" name="Effective Groundwork"><property name="Type" value="Command"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Effective Groundwork when it is revealed. Choose a site. Double the damage dealt to that site this turn.
+
+&amp;lt;i&amp;gt;We conquered Rasalhague more easily than we expected, thanks to the unique intelligence provided by Phelan.|Khan Ulric Kerensky, Rasalhague, 10 July 3050&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/><property name="L" value="5"/></card><card id="888f55b7-e365-4b9a-bd00-c29e0e5656da" name="Elemental Point"><property name="Type" value="Command"/><property name="Allegiance" value="Clan"/><property name="Structure" value="1"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Elemental Point attacks and blocks with a 'Mech. The speed of Elemental Point is the same as the 'Mech with which it attacks or blocks.
+
+</property><property name="Cost" value="0"/><property name="A" value="2"/></card><card id="2058f98f-d1c4-48c7-aa8f-189bb42b891d" name="Elias Crichell"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Clan - Jade Falcon"/><property name="Structure" value="2"/><property name="Armor" value="3"/><property name="Attack" value="0"/><property name="Text">{T}: Untap up to two resources. Use this ability only during your Deploy phase.
+
+&amp;lt;i&amp;gt;His ambition has propelled him further than he could have imagined. Let us hope it does not do the same to the Clans.|Khan Ulric Kerensky, Clan Wolf, Strana Mechty, 15 Mar 3047&amp;lt;/i&amp;gt;
+&lt;b&gt;• Senior Khan&lt;/b&gt;</property><property name="Cost" value="3"/><property name="P" value="6"/></card><card id="c53f91ed-46ba-43b2-9193-6c1a8a9dd845" name="Elite Infantry"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement  -  Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">Play Elite Infantry only on a site.
+
+Site Elite Infantry enhances gets +1 attack.  When that site
+is damaged,, attacker may choose to redirect 5 of that damage
+to Elite Infantry, scrapping it.
+
+You may move Elite Infantry to a different site during
+your Deploy phase.  
+
+You may deploy Elite Infantry revealed
+to make an additional deployment this turn.</property><property name="Cost" value="0"/><property name="M" value="1"/><property name="L" value="4"/></card><card id="0f7588a2-830a-47b8-b5b3-6a60c8d64fe9" name="Elite MechWarrior"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">&lt;b&gt;Pilot&lt;/b&gt; +1 initiative, +1 attack
+
+If 'Mech piloted by Elite MechWarrior is fast, it cannot be blocked except by a fast 'Mech guarding the target.
+
+</property><property name="Cost" value="1"/><property name="T" value="2"/></card><card id="c6312484-38a1-4d3b-9572-a22ff041a0ea" name="Enforcer (ENF-4R)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion"/><property name="Speed" value="S"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Alpha Strike: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Enforcer&amp;lt;/i&amp;gt; was created due to Davion interest in autocannons.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/></card><card id="4fc5e077-ae1a-4456-9aa0-2c89ac476182" name="Enforcer (ENF-5D)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Alpha Strike: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;House Davion's&amp;lt;i&amp;gt; upgraded &amp;lt;/i&amp;gt;Enforcer'' is faster and significantly tougher.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="2ed33c48-014f-41a8-a27e-a1c434743682" name="Evantha Fetladral"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Clan - Wolf"/><property name="Structure" value="1"/><property name="Armor" value="3"/><property name="Attack" value="0"/><property name="Text">{T}: +1 initiative and choose a 'Mech. That 'Mech gets +1 attack. Use this ability only during a mission. 
+
+ 
+&lt;b&gt;• Elemental Star Commander&lt;/b&gt;</property><property name="Cost" value="0"/><property name="T" value="2"/></card><card id="7bd4bcc0-6209-4499-945f-3581813cf4a0" name="Expert 'Mech Technicians"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+{T}: Scrap a card from your hand and choose a 'Mech.
+Untap that 'Mech at end of your turn. Use this ability only
+during your Missions phase but not during a mission.</property><property name="Cost" value="2"/><property name="L" value="2"/></card><card id="5252fa1e-095a-42f0-943e-e0590a706d32" name="Exterminator (EXT-4D)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="3"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;Anti-missile&lt;/b&gt; Each missile assigned to a 'Mech in a group that includes
+Exterminator deals -1 damage.
+
+&amp;lt;i&amp;gt;The Star League &amp;lt;i&amp;gt;Exterminator&amp;lt;/i&amp;gt; was designed to destroy enemy command units.&amp;lt;/i&amp;gt;</property><property name="Cost" value="3"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="3f033fde-8e42-4d48-8e87-e0eb411d00b7" name="Extra Armor Plating"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Play Extra Armor Plating only on a 'Mech.
+
+Scrap Extra Armor Plating to prevent up to 2 damage to that 'Mech.  Use this ability only during a mission. You may deploy Extra Armor  Plating revealed to make an additional deployment this turn.
+
+</property><property name="Cost" value="0"/><property name="A" value="2"/></card><card id="954c67a7-20e9-4e52-a03d-db784997f6ca" name="Falcon (FLC-4P)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Wolf's Dragoons"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="1"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;Anti-missile&lt;/b&gt; Each missile assigned to a 'Mech in a group that includes Falcon deals -1 damage.
+
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Falcon&amp;lt;/i&amp;gt; is rare outside Wolf's Dragoons.&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="428bd281-937c-459c-9a8f-ef18d8a61d4f" name="Feint"><property name="Type" value="Mission"/><property name="Text">Choose one of your 'Mechs. Roll a die: 1, no effect; 2-6, prevent all damage dealt and received by that 'Mech.
+
+&amp;lt;i&amp;gt;All warfare is based on deception.&amp;lt;i&amp;gt;|Sun Tzu, &amp;lt;/i&amp;gt;The Art of War&amp;lt;/i&amp;gt;</property></card><card id="0a7bc7a1-76fd-4b2e-8fa1-41fd4ce8ca09" name="Fenris A (Ice Ferret)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Wolf"/><property name="Speed" value="F"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Anti-missile&lt;/b&gt; Each missile assigned to a 'Mech in a group that includes &amp;lt;i&amp;gt;Fenris A&amp;lt;/i&amp;gt; deals -1 damage.
+
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Fenris A&amp;lt;/i&amp;gt; sports an accurate, long-range autocannon.&amp;lt;/i&amp;gt;</property><property name="Cost" value="3"/></card><card id="12b4087e-b107-46ae-923f-a2e646191acf" name="Fenris C (Ice Ferret)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Wolf"/><property name="Speed" value="F"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="1"/><property name="Text">Missile 1
+
+&amp;lt;i&amp;gt;Sometimes the &amp;lt;i&amp;gt;Fenris&amp;lt;/i&amp;gt; is called on to provide fire support.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="3"/></card><card id="a6b0a825-7f20-49cf-aea7-d05a6e31dba5" name="Fenris D (Ice Ferret)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Wolf"/><property name="Speed" value="F"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="5"/><property name="Text">&lt;b&gt;Anti-missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group that includes &amp;lt;i&amp;gt;Fenris D&amp;lt;/i&amp;gt; deals -1 damage)
+
+&amp;lt;i&amp;gt;Pulse Lasers make this configuration deadly without depending on resupply.&amp;lt;/i&amp;gt;</property><property name="Cost" value="6"/><property name="A" value="2"/><property name="M" value="1"/><property name="T" value="1"/></card><card id="c674176a-07c3-4828-8e74-aa1177e344d3" name="Fenris Prime (Ice Ferret)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="F"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="3"/><property name="Text">&amp;lt;i&amp;gt;The fast and tough &amp;lt;i&amp;gt;Fenris&amp;lt;/i&amp;gt; is a favorite of Clan Wolf.&amp;lt;/i&amp;gt;</property><property name="Cost" value="3"/><property name="A" value="1"/><property name="M" value="1"/><property name="T" value="1"/></card><card id="00955fd0-e386-4d22-9d76-1301c6d04c20" name="Ferro-Fibrous Armor"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Play Ferro-Fibrous Armor only on a 'Mech.  Add +1 to that 'Mech's Armor.
+
+You may deploy Ferro-Fibrous Armor revealed to make an additional deployment this turn. Draw a card when Ferro-Fibrous Armor is revealed.
+
+</property><property name="Cost" value="0"/><property name="A" value="2"/></card><card id="9a2102e7-08cd-46f9-8a53-c696bcd101d5" name="Firestarter (FS9-H)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="1"/><property name="Text">&lt;b&gt;Overheat&lt;/b&gt; 1: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;This unusual 'Mech was designed to set fires around its opponents.&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="2"/><property name="T" value="1"/></card><card id="a982e150-be8b-4587-9800-b29a96886ec2" name="Firestarter (FS9-S)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="1"/><property name="Text">'Overheat 1: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group that includes &amp;lt;i&amp;gt;Firestarter&amp;lt;/i&amp;gt; deals -1 damage.)
+ 
+&amp;lt;i&amp;gt;This &amp;lt;i&amp;gt;Firestarter&amp;lt;/i&amp;gt; upgrade features more special equipment.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/></card><card id="19b6cf46-cd9a-48d3-9acb-3bb1b1b67c99" name="Flashman (FLS-8K)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="8"/><property name="Armor" value="2"/><property name="Attack" value="4"/><property name="Text">Overheat 3: +3 attack
+
+&lt;b&gt;Anti-missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group that includes &amp;lt;i&amp;gt;Flashman&amp;lt;/i&amp;gt; deals -1 damage.)
+
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Flashman&amp;lt;/i&amp;gt;'s lasers light up the IR scanner like a Christmas tree.&amp;lt;/i&amp;gt;</property><property name="Cost" value="8"/></card><card id="f70730c2-8829-4545-a600-4904f9c6d824" name="Flea (FLE-17)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Wolf's Dragoons"/><property name="Speed" value="M"/><property name="Structure" value="2"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">Overheat 1: +1 attack 
+
+&lt;b&gt;Jump&lt;/b&gt; (attack-1: +1 initiative)
+
+You may deploy &amp;lt;i&amp;gt;Flea&amp;lt;/i&amp;gt; revealed to make an additional deployment this turn.</property><property name="Cost" value="1"/><property name="L" value="2"/></card><card id="b650d092-11b8-4221-a986-0fddb243b09a" name="Forged Mission Orders"><property name="Type" value="Mission"/><property name="Text">Play only when blocked.
+
+Untap one blocking 'Mech. That 'Mech neither deals nor receives damage. If no blocking 'Mechs remain, deal damage to the target as if unblocked.
+
+&amp;lt;i&amp;gt;A good soldier never questions orders. This is both his greatest strength and weakness.&amp;lt;i&amp;gt;|ISF Director Subhash Indrahar, &amp;lt;/i&amp;gt;Wisdom of the Dragon's Senses&amp;lt;/i&amp;gt;</property></card><card id="24d5899e-6455-4bd4-bd94-9767632f33b3" name="Galen Cox"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot - Unique - Steiner - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">If 'Mech piloted by Galen Cox is faster than attacking 'Mech opponent controls, 'Mech piloted by Galen Cox may block while tapped.
+
+
+&lt;b&gt;• Aide to Victor Stenier-Davion&lt;/b&gt;</property><property name="Cost" value="1"/><property name="T" value="5"/></card><card id="483f2853-6d7d-41e2-9eb1-c75a81b85bdb" name="Gladiator A (Executioner)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Ghost Bear"/><property name="Speed" value="S"/><property name="Structure" value="10"/><property name="Armor" value="3"/><property name="Attack" value="8"/><property name="Text">Overheat 4: +3 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;Extended missions behind enemy lines call for this all-laser configuration&amp;lt;/i&amp;gt;</property><property name="Cost" value="12"/><property name="M" value="2"/><property name="L" value="2"/></card><card id="6c96bdb6-58ec-4700-ad20-b1738a69fecd" name="Gladiator B (Executioner)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Ghost Bear"/><property name="Speed" value="S"/><property name="Structure" value="10"/><property name="Armor" value="3"/><property name="Attack" value="6"/><property name="Text">Alpha Strike: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group
+that includes Gladiator B deals -1 damage.)
+ 
+&amp;lt;i&amp;gt;This brutal variant attacks with a deadly one-two punch&amp;lt;/i&amp;gt;</property><property name="Cost" value="8"/><property name="A" value="1"/><property name="M" value="3"/><property name="T" value="1"/></card><card id="386af399-5c07-4aa7-a881-47bdf4d85edb" name="Gladiator C (Executioner)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Ghost Bear"/><property name="Speed" value="S"/><property name="Structure" value="10"/><property name="Armor" value="3"/><property name="Attack" value="6"/><property name="Text">Missile 1
+
+Alpha Strike: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (attack -2: +1 initiative
+
+&amp;lt;i&amp;gt;Sophisticated targeting systems distinguish this fire-support configuration&amp;lt;/i&amp;gt;</property><property name="Cost" value="8"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="085d5f72-2289-4459-9cf7-134d5a0f6023" name="Gladiator Prime (Executioner)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="S"/><property name="Structure" value="10"/><property name="Armor" value="3"/><property name="Attack" value="6"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+If &amp;lt;i&amp;gt;Gladiator Prime&amp;lt;/i&amp;gt; attacks and is blocked, it may deal up to
+2 of its damage to the target.
+
+&amp;lt;i&amp;gt;Speed and ferocity are hallmarks of this menacing Omni.&amp;lt;/i&amp;gt;</property><property name="Cost" value="9"/></card><card id="1affdc51-8891-46ee-94e9-51c15b6ba404" name="Good Shooting!"><property name="Type" value="Mission"/><property name="Text">Choose one of your 'Mechs. That 'Mech gets +2 attack.
+
+&amp;lt;i&amp;gt;Good Shooting, newbie. Let's see you do it again.|Captain Zachary Hawkins, 1st Somerset Strikers, JumpShip Katana, Aug 3050&amp;lt;/i&amp;gt;</property></card><card id="b1d0df89-c7ee-4ce5-b13b-a6ef4c73f205" name="Grand Dragon (DRG-5K)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="M"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">Overheat 2: +1 attack
+ 
+&amp;lt;i&amp;gt;New technology greatly improved the Draconis Combine's favorite heavy 'Mech.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/></card><card id="bd9d99ba-a19d-4d83-8aad-aa3693c69df9" name="Grasshopper (GHR-5H)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="8"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Grasshopper&amp;lt;/i&amp;gt; has a reputation as a high-intensity fighter.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/></card><card id="ccd6a489-a17a-4088-a560-02b4f0db42c8" name="Grayson Death Carlyle"><property name="Type" value="Command"/><property name="Allegiance" value="Unique  -  Inner Sphere"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="0"/><property name="Text">{T}: Your 'Mechs may block during current mission, regardless of their speed. Use this ability before assigning blockers.
+
+
+&lt;b&gt;• Commander Gray Death Legion&lt;/b&gt;</property><property name="Cost" value="4"/><property name="P" value="8"/></card><card id="74b6ea2e-09a9-44e5-98cc-6bbc904c59c2" name="Gray Death Pilot"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot - Mercenary  -  Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Pilot:&lt;/b&gt; +3 initiative
+
+Prevent 1 damage to 'Mech piloted by Gray Death Pilot. Use
+this ability only during a mission.
+
+</property><property name="Cost" value="0"/><property name="T" value="2"/></card><card id="c89a1530-8905-4ada-8011-86b9fc8b5868" name="Guerrilla Support"><property name="Type" value="Command"/><property name="Allegiance" value="Operation - Inner Sphere"/><property name="Structure" value="9"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">Put three operation counters on Guerrilla Support when you activate it.  
+Remove an operation counter at the beginning of your turn.
+When the last operation counter has been removed, scrap
+Guerrilla Support and opponent scraps a card at the
+beginning of his or her turn until end of game.</property><property name="Cost" value="3"/><property name="T" value="6"/></card><card id="1bf9549e-f12d-468f-bafb-597d0bc96804" name="Guillotine (GLT-5M)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Marik"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="4"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;The recovery of endo steel technology resurrected the Star League ''Guillotine'&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="2"/></card><card id="48864a5d-0f96-4416-bd21-096aa6ddd0ab" name="Hanse Davion - The Fox"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Davion - Inner Sphere"/><property name="Structure" value="1"/><property name="Armor" value="5"/><property name="Attack" value="0"/><property name="Text">For each Resource card scrapped from opponent's Stockpile, gain one resource at the beginning of your next Deploy phase.
+
+{T}: +1 initiative. Use this ability only during a mission.
+
+&lt;b&gt;Tactics&lt;/b&gt; (If you have Tactics in play, add +1 to your initiative.) 
+
+&lt;b&gt;• Prince of the Federated Suns&lt;/b&gt;</property><property name="Cost" value="6"/><property name="P" value="6"/></card><card id="ac417689-59d0-4da6-845c-8f7e55f10b33" name="Hatamoto-Chi (HTM-27T)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="S"/><property name="Structure" value="8"/><property name="Armor" value="3"/><property name="Attack" value="3"/><property name="Text">Overheat 2: +1 attack
+ 
+&amp;lt;i&amp;gt;This advanced 'Mech is a major conversion of the ''Charger.'&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/></card><card id="0f87cde2-6f97-40d6-a7ec-e89712e9d207" name="Hatchetman (HCT-3F)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion - Steiner"/><property name="Speed" value="S"/><property name="Structure" value="4"/><property name="Armor" value="1"/><property name="Attack" value="3"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+If &amp;lt;i&amp;gt;Hatchetman&amp;lt;/i&amp;gt; engages in battle with at least one slow
+'Mech, Hatchetman deals +1 damage to one of those slow
+'Mechs.
+
+&amp;lt;i&amp;gt;This frail 'Mech gets its name from its massive hatchet.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/></card><card id="fd9f50b4-0d3e-4cf4-9fa5-bb7d1df66c49" name="Hatchetman (HCT-5S)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion - Steiner"/><property name="Speed" value="S"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Overheat 1: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+If &amp;lt;i&amp;gt;Hatchetman&amp;lt;/i&amp;gt; engages in battle with at least one slow
+'Mech, Hatchetman deals +1 damage to one of those slow
+'Mechs.</property><property name="Cost" value="2"/><property name="A" value="3"/></card><card id="c3fe6562-8f29-48bd-8d38-43b872338c98" name="Head Shot"><property name="Type" value="Mission"/><property name="Text">Choose an engaged 'Mech opponent controls.  Until end of mission, for each structure damage dealt to that 'Mech, roll a die: 1-2, prevent the damage; 3-5, no effect; 6, that 'Mech is scrapped. If you don't roll at least one 6, return Head Shot to your hand after mission.
+
+</property></card><card id="19c9e322-a914-4c9d-98f1-422127e2eb66" name="Heavy Fog"><property name="Type" value="Mission"/><property name="Text">Attacking 'Mechs each get -2 attack and receive 2 less damage.
+
+</property></card><card id="67c6ad67-6177-42dc-bbc8-32705f0883f5" name="Heavy Industry"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="1"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T}: {R}{R}. Using this ability counts as one of your deployments.
+
+</property><property name="Cost" value="0"/></card><card id="57d1122c-adc0-42a4-9460-02e3ec573b68" name="Helicopter Support"><property name="Type" value="Command"/><property name="Allegiance" value="Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Helicopter Support cannot be attacked.
+
+{T}: Deal 1 damage to one engaged 'Mech opponent controls or one target and roll a die: 1-3, scrap Helicopter Support; 4-6, untap Helicopter Support. Use this ability only during battle.
+
+</property><property name="Cost" value="1"/><property name="T" value="4"/></card><card id="2031c856-4aef-40ac-9b25-b7858e952e2e" name="Heroic Sacrifice"><property name="Type" value="Mission"/><property name="Text">Play only if you have Tactics in play and only when blocked.
+
+Double all damage dealt to one of your 'Mechs. Deal that 'Mech's damage to the target.
+
+</property></card><card id="cb8fd62c-559c-44e5-acae-7e0a34f99b21" name="Highlander (HGN-732)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="10"/><property name="Armor" value="3"/><property name="Attack" value="2"/><property name="Text">Missile 1
+
+Overheat 3: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;Many unfortunate light 'Mechs have received a &amp;lt;i&amp;gt;Highlander&amp;lt;/i&amp;gt; Burial&amp;lt;/i&amp;gt;</property><property name="Cost" value="6"/><property name="A" value="1"/></card><card id="e5cbf636-b2f3-48ab-8631-c6390d5ac7d8" name="Holographic Decoy"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Holographic Decoy when it is revealed.
+Tap one 'Mech for each 3 construction above the cost of
+Holographic Decoy.
+
+&amp;lt;i&amp;gt;I registered three kills before I realized the &amp;lt;i&amp;gt;Mauler&amp;lt;/i&amp;gt; was not even there.|Star Commander Julianna Bekker, Clan Ghost Bear, Rubigen, Apr 3050&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="2"/><property name="P" value="6"/></card><card id="7e2331f1-162a-4c9a-abbc-42a928d283c6" name="Hoplite (HOP-4D)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Wolf's Dragoons"/><property name="Speed" value="S"/><property name="Structure" value="8"/><property name="Armor" value="1"/><property name="Attack" value="1"/><property name="Text">Alpha Strike: +1 attack
+
+&amp;lt;i&amp;gt;This odd-looking 'Mech is found exclusivly among the Dragoons&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="8a2a1f25-e42f-43b0-acd5-087d758af356" name="Hornet (HNT-171)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Wolf's Dragoons - Davion"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+You may deploy &amp;lt;i&amp;gt;Hornet&amp;lt;/i&amp;gt; revealed to make an additional
+deployment this turn.
+
+&amp;lt;i&amp;gt;This Dragoon enigma is quite slow for a light 'Mech.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="L" value="1"/></card><card id="3b101849-ee89-42ac-a445-9a78c450a0c9" name="Hovertank Detachment"><property name="Type" value="Command"/><property name="Allegiance" value="Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Hovertank Detachment cannot be attacked.
+{T}: Deal 1 damage to one engaged 'Mech opponent
+controls or one target and roll a die: 1-2, scrap Hovertank
+Detachment; 3-4, no effect; 5-6, untap Hovertank
+Detachment. Use this ability only during battle.</property><property name="Cost" value="2"/><property name="T" value="4"/></card><card id="15fd9b06-fa6a-4134-970e-cf17213271b5" name="Hunchback (HBK-4G)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Alpha Strike: +2 attack
+ 
+&amp;lt;i&amp;gt;The ''Hunchback's'' massive autocannon sends its enemies screaming for cover.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="bfccf649-cec1-497d-80a5-6054ef131fd4" name="Hussar (HSR 200-D)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="F"/><property name="Structure" value="1"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">You may deploy &amp;lt;i&amp;gt;Hussar&amp;lt;/i&amp;gt; revealed to make an additional
+deployment this turn.
+
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Hussar&amp;lt;/i&amp;gt;'s speed is the only thing protecting it from destruction.&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="L" value="2"/></card><card id="6f0e914b-26cd-403b-999a-16ac24a85cdf" name="Improvised Weapon"><property name="Type" value="Mission"/><property name="Allegiance" value="Inner Sphere"/><property name="Text">Choose one of your 'Mechs. If engaged 'Mech opponent
+controls is dealt structure damage, put a +1 attack clubbing
+limb counter on that 'Mech.
+ 
+&amp;lt;i&amp;gt;The object of war is to hurt the other guy, and in that pursuit, any weapon is a good weapon.&amp;lt;i&amp;gt;|&amp;lt;/i&amp;gt;Sergeant Kenton Parker, 12th Donegal Guards, Trell I, 17 Apr 3050&amp;lt;/i&amp;gt;</property></card><card id="ddebcf61-0b53-470e-9e5e-f68338ea2aed" name="Imp (IMP-3E)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Wolf's Dragoons"/><property name="Speed" value="S"/><property name="Structure" value="11"/><property name="Armor" value="3"/><property name="Attack" value="3"/><property name="Text">Overheat 4: +3 attack
+
+Alpha Strike: +1 attack
+ 
+&amp;lt;i&amp;gt;Few MechWarriors live to tell of battles with this juggernaut.&amp;lt;/i&amp;gt;</property><property name="Cost" value="7"/><property name="L" value="1"/></card><card id="2dea699e-655d-4b0a-97cc-f78a81155dea" name="Inexorable Advance"><property name="Type" value="Mission"/><property name="Text">Play only when blocked.
+
+Choose one of your 'Mechs. If that 'Mech receives no structure damage, untap that 'Mech after mission.
+ 
+&amp;lt;i&amp;gt;In the face of the enemy our objective is to destroy him utterly and there must be no hesitation or lack of resolve in this regard.''|Dictum Honorium Volume II, Passages 40-78&amp;lt;/i&amp;gt;</property></card><card id="48c5d805-560c-47f3-820d-19bca4352d92" name="Infantry Platoon"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">Play Infantry Platoon only on a site.
+
+Site Infantry Platoon enhances gets +1 attack.  When that
+site is damaged,, attacker may choose to redirect 3 of that
+damage to Infantry Platoon, scrapping it.  Scrap Infantry
+Platoon to prevent 1 damage to the site it enhances.  Use
+this ability only during a mission.  You may move Infantry
+Platoon to a different site during your Deploy phase.
+
+You may deploy Infantry Platoon revealed to make an additional deployment this turn.</property><property name="Cost" value="0"/><property name="L" value="3"/></card><card id="eb72cd92-d768-4859-b5f3-802509b88af9" name="Inside Job"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Inside Job when it is revealed.
+Choose one of your 'Mechs. If that 'Mech attacks alone, it
+cannot be blocked this turn.
+ 
+&amp;lt;i&amp;gt;Does the bastard who betrayed us really believe we'll have a better life with the Clans?''|Provincial Governor Jenny Ming, Ardoz, Feb 3052&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="P" value="6"/></card><card id="9be7f19a-a79b-4d76-9327-2356adfed8bc" name="ISF Counterespionage"><property name="Type" value="Command"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap ISF Counterespionage when it is revealed.
+You may activate ISF Counterespionage when an opponent
+reveals a Subterfuge card.  That card is scrapped with
+no effect.
+ 
+&amp;lt;i&amp;gt;Her warning of the imminent Clan attack on Luthien marked Precentor Sharilar Mori as one of our most valuable and loyal agents.|ISF Director Subhash Indrahar, Luthien, 22 Nov 3051&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/></card><card id="e03a5d03-b19c-48ce-899c-3f57384ccec5" name="JagerMech (JM6-DD)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion - Kurita"/><property name="Speed" value="S"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="3"/><property name="Text">Alpha Strike: +1 attack
+ 
+&amp;lt;i&amp;gt;New upgrades only marginally improve the ''JagerMech's'' lackluster performance.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="3"/></card><card id="163b9825-3690-441e-b482-d94adae45f48" name="JagerMech (JM6-S)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion - Liao"/><property name="Speed" value="S"/><property name="Structure" value="4"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Alpha Strike: +1 attack
+ 
+&amp;lt;i&amp;gt;The poorly armed ''JagerMech's'' only asset is its long range.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/></card><card id="7dfceeed-cc60-4fbb-b160-bdbe65b49fc1" name="Jaime Wolf"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Mercenary - Pilot - Wolf's Dragoons - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Pilot&lt;/b&gt;: +2 initiative
+'Mech piloted by Jaime Wolf gets +1 attack for each other
+'Mech in a group that includes 'Mech piloted by Jaime Wolf.
+During your Draw phase, you may pay {R} and scrap a card
+from your Stockpile. If that card is a 'Mech, put it into your
+hand. You may repeat this process as often as you wish.
+ 
+'''• Commander, Wolf's Dragoons'''</property><property name="Cost" value="4"/><property name="T" value="5"/></card><card id="74427b15-fb15-4d3d-98cc-da4619ce4a00" name="Javelin (JVN-10N)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;This agile Davion 'Mech is rare in other House armies.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/></card><card id="5d23c5cb-4309-42cf-abde-74da5cfd396e" name="Jenner (JR7-D)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="F"/><property name="Structure" value="2"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Overheat 2: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;The DCMS has always employed the agile &amp;lt;i&amp;gt;Jenner&amp;lt;/i&amp;gt; in its front lines.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="77110352-9f3b-4755-b56c-8ec55ab67682" name="Jump into Cover"><property name="Type" value="Mission"/><property name="Text">Choose one of your 'Mechs with Jump. Roll a die: 1-2, that
+'Mech receives 1-2 damage and return Jump Into Cover to
+your hand after mission; 3-6, prevent 3-6 damage to that
+'Mech.
+
+&amp;lt;i&amp;gt;Armor doesn't make you invincible. Use cover at every opportunity.''|Light 'Mech Pilot's Handbook, Chapter 4, Section 3&amp;lt;/i&amp;gt;</property></card><card id="b620588d-c1e5-45a5-91a8-7b1af37816b0" name="Justin Xiang Allard"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Inner Sphere - Davion"/><property name="Structure" value="4"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">{T}: Look at the top card of opponent's Stockpile. You may choose to have opponent restock that card. Use this ability only during your Missions phase but not during a mission.
+
+&amp;lt;i&amp;gt;His strength is not in guessing what the enemy will do, but in making the enemy do what he wants them to do.''|Deputy Secretary Alexi Mallory&amp;lt;/i&amp;gt; 
+
+&lt;b&gt;• Secretary, Ministry of Intelligence&lt;/b&gt;</property><property name="Cost" value="3"/><property name="P" value="9"/></card><card id="af17c780-c94b-4b6b-9a6d-675c3c593654" name="Kai Allard-Liao"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Inner Sphere - Davion - St. Ives"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="3"/><property name="Text">&lt;b&gt;Pilot:&lt;/b&gt; +3 initiative, +3 attack
+Prevent up to 2 damage to each 'Mech in a group that
+includes 'Mech piloted by Kai Allard-Liao.
+When 'Mech piloted by Kai Allard-Liao attacks or blocks,
+you may reveal the top card of your Stockpile. If that card is
+a Mission card, put it into your hand. If it is not a Mission
+card, restock it.
+
+&lt;b&gt;• Heir to the St. Ives Compact&lt;/b&gt;</property><property name="Cost" value="5"/><property name="T" value="7"/></card><card id="3c59f906-b9eb-4b70-a003-cb8fa4aefe3b" name="Kamikaze MechWarrior"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot - Inner Sphere - Kurita"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Pilot&lt;/b&gt;: +1 initiative
+If 'Mech piloted by Kamikaze MechWarrior is faster than
+engaged 'Mech opponent controls, you may scrap 'Mech
+piloted by Kamikaze MechWarrior and roll two dice: 2-12,
+deal +(2-12) damage to engaged 'Mech opponent controls.
+Use this ability only during a mission.</property><property name="Cost" value="2"/><property name="T" value="2"/></card><card id="a1007208-1845-496e-a784-d02099e0bbb3" name="Katana (CRK5003-2)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="4"/><property name="Text">Overheat 3: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;A variant of the &amp;lt;i&amp;gt;Crockett&amp;lt;/i&amp;gt;, the &amp;lt;i&amp;gt;Katana&amp;lt;/i&amp;gt; contains few changes.&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/><property name="A" value="2"/><property name="M" value="1"/></card><card id="adc10b52-9295-4a34-859d-cb75a2d23851" name="Kell Hound Pilot"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot - Mercenary  -  Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">&lt;b&gt;Pilot:&lt;/b&gt; +1 initiative, +1 attack
+ 
+</property><property name="Cost" value="0"/><property name="T" value="3"/></card><card id="71821bd6-1896-4fa2-99dc-693f2b3239ad" name="Koshi A (Mist Lynx)"><property name="Type" value="Unit"/><property name="Allegiance" value="AP - Clan - Omni"/><property name="Speed" value="F"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group
+that includes Koshi A deals -1 damage.)
+
+&lt;b&gt;AP&lt;/b&gt; (Koshi A deals +1 damage to any target other than a 'Mech.)</property><property name="Cost" value="0"/></card><card id="59035106-9886-4f34-a482-9d94d5673c1a" name="Koshi B (Mist Lynx)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="F"/><property name="Structure" value="4"/><property name="Armor" value="0"/><property name="Attack" value="4"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;With its lasers and missiles, this 'Mech packs a real wallop.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/></card><card id="64bb328a-b4a5-4daf-a4e4-2f08f046ad8b" name="Koshi C Mist Lynx"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Smoke Jaguar"/><property name="Speed" value="F"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="3"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group
+that includes Koshi C deals -1 damage.)
+
+&lt;b&gt;ECM&lt;/b&gt; (Each 'Mech in a group that includes at least one
+'Mech with ECM gets +1 armor.</property><property name="Cost" value="3"/><property name="A" value="1"/><property name="M" value="1"/><property name="T" value="1"/></card><card id="27156115-914b-4547-8085-6e0bf725d035" name="Koshi D (Mist Lynx)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="F"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&amp;lt;i&amp;gt;Used sparingly, this variant is only effective in special situations.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="2"/></card><card id="fd001c19-53f3-4a2b-ade0-56c508a2baa7" name="Koshi Prime (Mist Lynx)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="F"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;Known as the "Small Death", this 'Mech has earned its name&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="2"/></card><card id="d11de574-111e-4b91-86c0-86a67731b32b" name="Lancelot (LNC25-01)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="2"/><property name="Attack" value="4"/><property name="Text">Overheat 4: +1 attack
+ 
+&amp;lt;i&amp;gt;The relatively quick &amp;lt;i&amp;gt;Lancelot&amp;lt;/i&amp;gt; carries considerable firepower.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="3"/></card><card id="60834131-6d52-424d-98c5-7733fe8da989" name="Lance Commander"><property name="Type" value="Command"/><property name="Allegiance" value="Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Pilot&lt;/b&gt;: +2 initiative
+Prevent 1 damage to any 'Mech in a group that includes
+'Mech piloted by Lance Commander. Use this ability only
+during a mission.
+
+&amp;lt;i&amp;gt;Get back here Phelan! That's an order! Dammit, follow my order just for once!''|Leutnant Tang, Kell Hounds, The Rock, 13 Aug 3049&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="T" value="3"/></card><card id="494e1135-a8c6-402b-864d-d3330cf1a771" name="Leap Before You Look"><property name="Type" value="Mission"/><property name="Text">Play only during battle.
+
+Choose a 'Mech with Jump.  Deal 4 damage to that 'Mech.
+ 
+</property></card><card id="c0a3828c-4c8c-4c2a-a6df-ed498682e955" name="Leo Showers"><property name="Type" value="Command"/><property name="Allegiance" value="Unique  -  Clan"/><property name="Structure" value="1"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T}: Draw a card. Use this ability only during your Draw phase.
+
+
+
+&lt;b&gt;• ilKhan of the Clans&lt;/b&gt;</property><property name="Cost" value="3"/><property name="P" value="5"/></card><card id="04628cab-6de0-4b3f-8e9d-90b24f782de7" name="Loki A (Hellbringer)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Jade Falcon"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="5"/><property name="Text">Missile 1
+
+Overheat 3: +2 attack
+
+&lt;b&gt;NARC&lt;/b&gt; (You may subtract 1 from each of your missile rolls
+if the missiles are assigned by a 'Mech in a group that
+includes at least one NARC 'Mech.)</property><property name="Cost" value="8"/><property name="A" value="3"/><property name="T" value="3"/></card><card id="c34ecdc7-37db-4a94-b4bb-354cced1881f" name="Loki B (Hellbringer)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Jade Falcon"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="6"/><property name="Text">&amp;lt;i&amp;gt;This "utterly mad" 'Mech is infamous among Inner Sphere forces.&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/><property name="A" value="1"/><property name="M" value="2"/></card><card id="60fb2fcc-77ae-4b00-aab3-91745b8791cb" name="Loki Prime (Hellbringer)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="6"/><property name="Text">Overheat 5: +6 attack
+
+&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group
+that includes &amp;lt;i&amp;gt;Loki&amp;lt;/i&amp;gt; Prime deals -1 damage.)
+
+&lt;b&gt;ECM&lt;/b&gt; (Each 'Mech in a group that includes at least one
+'Mech with ECM gets +1 armor.)
+
+&lt;b&gt;AP&lt;/b&gt; (Loki Prime deals +1 damage to any target other than a
+'Mech.)</property><property name="Cost" value="12"/><property name="A" value="1"/><property name="L" value="2"/><property name="M" value="2"/><property name="T" value="3"/></card><card id="8495158b-c19f-4aa4-ba83-92ea5059f16c" name="Long Range Targeting System"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Play Long Range Targeting System only on a 'Mech.  That 'Mech may deal up to one-half its non-missile damage (rounded down) to the target it is attacking, even if that 'Mech is blocked.
+
+You may deploy Long Range Targeting System revealed to make an additional deployment this turn.</property><property name="Cost" value="0"/><property name="A" value="4"/></card><card id="f59270e4-f32d-4504-a0f5-8467453f59c9" name="Long Tom Battery"><property name="Type" value="Command"/><property name="Allegiance" value="Artillery"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">{T}: Deal 3 damage to one site. Use this ability only during your Missions phase but not during a mission.
+ 
+</property><property name="Cost" value="4"/><property name="M" value="4"/><property name="L" value="4"/></card><card id="ac5d8c53-6228-4b02-b6d0-6677236c0ba0" name="Luck of the Fox"><property name="Type" value="Mission"/><property name="Allegiance" value="Davion - Inner Sphere"/><property name="Text">Choose a 'Mech opponent controls. Roll a die: 1, no effect;
+2-3, return Luck of the Fox to your hand after mission; 4-6,
+prevent all damage dealt by that 'Mech.
+ 
+</property></card><card id="fc251e62-764c-4002-b4a0-9e04c09ca95c" name="Lured into Bog"><property name="Type" value="Mission"/><property name="Text">Play only when attacked.
+
+All attacking 'Mechs may be blocked, regardless of their
+speed, until end of turn.
+ 
+&amp;lt;i&amp;gt;open green meadow will not let soldier pass through the embracing mud&amp;lt;i&amp;gt;|&amp;lt;/i&amp;gt;Death haiku&amp;lt;/i&amp;gt;</property></card><card id="a30593e8-2528-4a43-8c6d-7700fe1f8bf6" name="Mad Cat A (Timber Wolf)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Wolf"/><property name="Speed" value="M"/><property name="Structure" value="9"/><property name="Armor" value="2"/><property name="Attack" value="9"/><property name="Text">Overheat 1: +1 attack
+ 
+&amp;lt;i&amp;gt;Ample firepower and heat sinks make this 'Mech particulary dangerous.&amp;lt;/i&amp;gt;</property><property name="Cost" value="14"/></card><card id="63a8b961-87b9-4f70-9b7e-993d980f713f" name="Mad Cat B (Timber Wolf)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Wolf"/><property name="Speed" value="M"/><property name="Structure" value="9"/><property name="Armor" value="2"/><property name="Attack" value="7"/><property name="Text">&amp;lt;i&amp;gt;Less common than other variants, it still packs a punch.&amp;lt;/i&amp;gt;</property><property name="Cost" value="9"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="a62e3408-18f2-4b10-855a-0d3d4728419e" name="Mad Cat C (Timber Wolf)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Wolf"/><property name="Speed" value="M"/><property name="Structure" value="9"/><property name="Armor" value="2"/><property name="Attack" value="5"/><property name="Text">Overheat 2: +3 attack
+
+Missile 1
+
+&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group
+that includes Mad Cat C deals -1 damage.)</property><property name="Cost" value="11"/><property name="A" value="4"/><property name="M" value="1"/><property name="T" value="1"/></card><card id="88f21d10-53a1-4e1a-b6bb-270bd841d184" name="Mad Cat D (Timber Wolf)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Wolf"/><property name="Speed" value="M"/><property name="Structure" value="9"/><property name="Armor" value="2"/><property name="Attack" value="7"/><property name="Text">Overheat 4: +4 attack
+ 
+&amp;lt;i&amp;gt;Its many weapons allow it to fight in the enemy's midst.&amp;lt;/i&amp;gt;</property><property name="Cost" value="13"/><property name="A" value="4"/><property name="M" value="4"/></card><card id="579758e7-558c-4e12-87e6-5c26d0b64585" name="Mad Cat Prime (Timber Wolf)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="9"/><property name="Armor" value="2"/><property name="Attack" value="7"/><property name="Text">Missile 2
+
+Overheat 3: +3 attack
+ 
+&amp;lt;i&amp;gt;This powerful OmniMech was the first seen by Inner Sphere forces.&amp;lt;/i&amp;gt;</property><property name="Cost" value="15"/><property name="L" value="2"/></card><card id="bc3f798c-b045-4173-8207-766cc438acec" name="Maneuvering Ace"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Pilot:&lt;/b&gt; +1 initiative
+'Mech piloted by Maneuvering Ace may attack and block as
+if one speed faster. If 'Mech piloted by Maneuvering Ace is
+a fast 'Mech, it cannot be blocked except by 'Mechs guarding
+the target.
+
+</property><property name="Cost" value="0"/><property name="T" value="3"/></card><card id="2310f0b3-112a-430a-b388-c136df57d565" name="Manipulation of Romano"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge - Inner Sphere - Liao"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Manipulation of Romano when it is revealed.
+Tap all guarding 'Mechs.
+ 
+</property><property name="Cost" value="3"/><property name="P" value="6"/></card><card id="0a676aca-2355-4dba-8aa4-3cb6995d54b1" name="Man O' War A (Gargoyle)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Wolf"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="3"/><property name="Attack" value="6"/><property name="Text">Overheat 4: +5 attack
+ 
+&amp;lt;i&amp;gt;Paired PPCs give this 'Mech lethal firepower at any range&amp;lt;/i&amp;gt;</property><property name="Cost" value="12"/><property name="M" value="3"/></card><card id="09a38718-97fe-4ea8-ac91-ed5ad6732330" name="Man O' War B (Gargoyle)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Wolf"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="3"/><property name="Attack" value="4"/><property name="Text">&amp;lt;i&amp;gt;Though not as powerful as other configurations it is still dangerous.&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/><property name="A" value="2"/></card><card id="4e73d114-8e42-411d-8f19-0b0d59f25be9" name="Man O' War C (Gargoyle)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Wolf"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="3"/><property name="Attack" value="9"/><property name="Text">Alpha Strike: +3 attack
+ 
+&amp;lt;i&amp;gt;Bristling lasers and a massive AC make this a fearsome 'Mech.&amp;lt;/i&amp;gt;</property><property name="Cost" value="14"/><property name="M" value="4"/></card><card id="83556c29-a0df-4361-bfd9-0e7124158042" name="Man O' War Prime (Gargoyle)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="3"/><property name="Attack" value="4"/><property name="Text">&amp;lt;i&amp;gt;This assault 'Mech's exceptional speed makes it an unpredictable foe.&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/><property name="A" value="2"/></card><card id="333ce97e-acef-477d-b1c0-bc5e073a1d6a" name="Marik Arms Trade"><property name="Type" value="Command"/><property name="Allegiance" value="Resource - Marik - Inner Sphere"/><property name="Structure" value="1"/><property name="Armor" value="5"/><property name="Attack" value="1"/><property name="Text">{T}: {R}
+{T}: Marik Arms Trade deals 1 damage to attacking 'Mech.
+Use this ability only during a mission.
+
+&lt;b&gt;Munitions&lt;/b&gt; (If you have Munitions in play and you roll a
+3 on a missile volley, that missile volley deals 3 damage.)</property><property name="Cost" value="1"/><property name="M" value="2"/></card><card id="386b3bbf-1ba6-46aa-9426-5c7371a8e711" name="Marissa Morgan"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Inner Sphere - Marik"/><property name="Structure" value="1"/><property name="Armor" value="3"/><property name="Attack" value="0"/><property name="Text">{T}: +1 initiative and choose one of your 'Mechs. Prevent up to 2 damage to that 'Mech. Use this ability only during a mission.
+
+
+&lt;b&gt;• Commander, Fusiliers of Oriente&lt;/b&gt;</property><property name="Cost" value="1"/><property name="T" value="3"/></card><card id="4fd85d1d-dd76-47c7-b470-2100999d74e7" name="Masakari A (Warhawk)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="S"/><property name="Structure" value="10"/><property name="Armor" value="3"/><property name="Attack" value="8"/><property name="Text">&amp;lt;i&amp;gt;A diversity of weapons allow this 'Mech to perform varied roles.&amp;lt;/i&amp;gt;</property><property name="Cost" value="10"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="5137faee-8051-49d8-9321-d504b0077f26" name="Masakari B (Warhawk)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="S"/><property name="Structure" value="10"/><property name="Armor" value="3"/><property name="Attack" value="8"/><property name="Text">&lt;b&gt;NARC&lt;/b&gt; (You may subtract 1 from each of your missile rolls
+if the missiles are assigned by a 'Mech in a group that
+includes at least one NARC 'Mech.)
+
+&amp;lt;i&amp;gt;The Masakari B is known for its threatening silhouette&amp;lt;/i&amp;gt;</property><property name="Cost" value="11"/><property name="A" value="3"/><property name="L" value="3"/></card><card id="b68a50a7-47ea-498f-8ccb-cf13f5bfbe53" name="Masakari C (Warhawk)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="S"/><property name="Structure" value="10"/><property name="Armor" value="3"/><property name="Attack" value="10"/><property name="Text">Overheat 1: +1 attack
+ 
+&amp;lt;i&amp;gt;Many MechWarriors consider this OmniMech the ultimate fighting machine&amp;lt;/i&amp;gt;</property><property name="Cost" value="13"/><property name="M" value="3"/><property name="L" value="2"/></card><card id="973d36fa-7044-4d4b-ba16-e1f660c1c39d" name="Masakari Prime (Warhawk)"><property name="Type" value="Unit"/><property name="Allegiance" value="Omni - Clan"/><property name="Speed" value="S"/><property name="Structure" value="9"/><property name="Armor" value="3"/><property name="Attack" value="10"/><property name="Text">Overheat 4: +3 attack
+ 
+&amp;lt;i&amp;gt;With its enhanced targeting, this 'Mech boasts unmatched long-range firepower.&amp;lt;/i&amp;gt;</property><property name="Cost" value="13"/><property name="A" value="3"/><property name="M" value="5"/><property name="L" value="3"/></card><card id="af92c06e-a53a-445a-8861-8bf5dbc800b7" name="MASC"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Play MASC (Myomer Acceleration Signal Circuitry) only on a 'Mech.
+
+-1 attack: Prevent up to 2 damage.  Use this ability only during a mission.
+
+You may deploy MASC revealed to make an additional deployment this turn.</property><property name="Cost" value="0"/><property name="A" value="3"/></card><card id="77d33cec-aeb6-4843-bd67-6b929d2b6c8a" name="Maskirovka Operatives"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge - Liao - Inner Sphere"/><property name="Structure" value="1"/><property name="Armor" value="3"/><property name="Attack" value="0"/><property name="Text">Scrap Maskirovka Operatives when it is revealed unless you reveal it during your Deploy phase.
+{T}: Tap a 'Mech opponent controls. Use this ability only
+during your Missions phase but not during a mission.
+ 
+</property><property name="Cost" value="2"/><property name="P" value="4"/></card><card id="badb52e9-93e0-4858-9c93-43c93b229aef" name="Master Spy"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge"/><property name="Structure" value="4"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">{R}, {T}: Search your Stockpile and retrieve a card of your choice instead of drawing a card. Any other player may ask to see this card. If that card is revealed in this way and it is a Subterfuge card, that player scraps two cards from his or her Stockpile. If it is not a Subterfuge card, scrap the card and five additional cards from your Stockpile. Shuffle your Stockpile afterwards. Use this ability only during your Draw phase.</property><property name="Cost" value="1"/><property name="P" value="2"/><property name="L" value="2"/></card><card id="9372c036-267e-4857-ba4c-e5103a202059" name="Mauler (MAL-1R)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">Missile 1
+
+Overheat 2: +1 attack
+ 
+&amp;lt;i&amp;gt;Its long-range weapons make this an ideal fire-support 'Mech.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="8738d364-55fe-487e-95f2-4aaad00d2966" name="Maverick Mechjock"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Pilot&lt;/b&gt;: +1 initiative, +2 attack
+'Mech piloted by Maverick Mechjock cannot attack or block in a group.
+
+</property><property name="Cost" value="0"/><property name="T" value="3"/></card><card id="6cce02c2-d294-47da-acb3-882670c3ed58" name="Melissa Steiner Davion"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Inner Sphere - Steiner"/><property name="Structure" value="1"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T}: Scrap a card from your hand to return one card from your Scrapheap to your hand. Use this ability only during your Deploy phase.
+
+
+&lt;b&gt;• Archon of the Lyran Commonwealth&lt;/b&gt;</property><property name="Cost" value="2"/><property name="P" value="2"/></card><card id="529499b0-1d8f-4ea7-b2f5-0f56876fd83c" name="Mercury (MCY-97)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="F"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">&amp;lt;i&amp;gt;Clan technicians used the &amp;lt;i&amp;gt;Mercury&amp;lt;/i&amp;gt; as the basis of the OmniMech.&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="1"/></card><card id="2f133a55-ff3d-44a8-8863-65dd5fc3485f" name="Mislabeled Drop Boxes"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Mislabeled Drop Boxes when it is revealed. Reveal the top card from a player's Stockpile until the next 'Mech is revealed. Replace one of that player's cards under construction with that 'Mech. Replaced card and all other cards revealed in this way are shuffled into that player's Stockpile.
+
+You may deploy Mislabled Drop Boxes revealed to make an additional deployment this turn.</property><property name="Cost" value="0"/><property name="P" value="2"/></card><card id="8eed3fd5-03d7-4ac2-9060-483618cbf0ba" name="Misrouted Command"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Misrouted Command when it is revealed.
+Tap one 'Mech and put three diversion counters on it.
+If there are any diversion counters on that 'Mech, that
+'Mech does not untap. Instead, remove a diversion counter
+any time that 'Mech would normally untap.
+ 
+</property><property name="Cost" value="3"/><property name="P" value="6"/></card><card id="0b6d2d5e-ca90-4611-bab9-a43d639a7b01" name="Missile Spotter"><property name="Type" value="Mission"/><property name="Allegiance" value="Inner Sphere"/><property name="Text">You may subtract 1 from any of your missile die rolls until
+end of mission. Use this ability immediately after rolling the
+die roll.
+ 
+</property></card><card id="14db8921-f9c9-4436-9c54-c092e384479c" name="Mobile HQ"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="1"/><property name="Armor" value="4"/><property name="Attack" value="1"/><property name="Text">{T}: {R}
+Mobile HQ cannot be attacked by slow 'Mechs.
+
+&lt;b&gt;Tactics&lt;/b&gt; (If you have Tactics in play, add +1 to your
+initiative.)</property><property name="Cost" value="0"/><property name="L" value="2"/></card><card id="2f931970-e42a-4946-9f7d-5deb9d7dbdfe" name="Mongoose (MON-66)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="F"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">&amp;lt;i&amp;gt;This quick, agile BattleMech is popular with light 'Mech pilots.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="3"/></card><card id="0fa5008f-8f79-4f3f-bb76-169d9e41f779" name="Morgan Hasek Davion"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Inner Sphere - Davion"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">{T}: +1 initiative and each attacking 'Mech gets +1 attack. Use this ability only during a mission.
+
+&lt;b&gt;• Marshall of the Armies, Federated Commonwealth&lt;/b&gt;</property><property name="Cost" value="4"/><property name="T" value="4"/></card><card id="cb24fd46-d8df-4c7f-9acb-70ce837ef565" name="Morgan Kell"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Mercenary - Pilot - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Pilot&lt;/b&gt;: +2 initiative
+
+If 'Mech piloted by Morgan Kell attacks alone, it cannot be blocked and at end of mission put Morgan Kell into your hand.
+
+
+&lt;b&gt;• Retired Commander, Kell Hounds&lt;/b&gt;</property><property name="Cost" value="4"/><property name="T" value="5"/></card><card id="88a38e5b-164d-4168-bdab-d85297f51efb" name="Move to Partial Cover"><property name="Type" value="Mission"/><property name="Text">Choose one of your 'Mechs. Prevent up to 2 damage to that
+'Mech.
+ 
+</property></card><card id="8d31f41a-c11d-4af3-9116-5d3270ee36e2" name="NAIS"><property name="Type" value="Command"/><property name="Allegiance" value="Resource - Inner Sphere - Davion"/><property name="Structure" value="1"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+{T}: Add +1 to one of your die rolls. Use this ability
+immediately after rolling the die roll.
+
+&lt;b&gt;Tactics&lt;/b&gt; (If you have Tactics in play, add +1 to your
+initiative.)</property><property name="Cost" value="3"/></card><card id="da3afb9f-1593-4061-af0e-c7316cedaea9" name="Natasha Kerensky"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Pilot - Clan - Wolf"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="3"/><property name="Text">&lt;b&gt;Pilot:&lt;/b&gt; +3 initiative, +3 attack
+
+If 'Mech piloted by Natasha Kerensky is scrapped, roll a die: 1-4, no effect; 5-6, return Natasha Kerensky to your hand.
+
+
+&amp;lt;/i&amp;gt;'• Commander Alpha Galaxy</property><property name="Cost" value="5"/><property name="T" value="5"/></card><card id="e3d37956-638f-4746-9555-0b76f64db06d" name="Navigation Computer"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Play Navigation Computer only on a 'Mech.  That 'Mech cannot be blocked by patrolling 'Mechs that are the same speed.
+
+You may deploy Navigation Computer revealed to make an additional deployment this turn.
+ 
+</property><property name="Cost" value="0"/><property name="A" value="3"/></card><card id="fd37591c-d0d7-4ec3-bd44-69d8e344768b" name="Open Supply Lines"><property name="Type" value="Command"/><property name="Allegiance" value="Operation"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="0"/><property name="Text">Put three operation counters on Open Supply Lines when you activate it. 
+
+Remove an operation counter at the beginning of your turn. When the last operation counter has been removed, scrap Open Supply Lines and draw an additional card at the beginning of your Draw phase until end of game.</property><property name="Cost" value="0"/><property name="P" value="4"/></card><card id="3d466c25-34c6-4266-b60d-565dbf0837a1" name="Operation Advisory Council"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">{R}{R}, {T}: Gain as many resources as you have different assets in play.
+ 
+</property><property name="Cost" value="2"/><property name="L" value="2"/></card><card id="4f967c90-a78e-4e33-8bc8-75b7e18d4377" name="Orion (ON1-K)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Marik"/><property name="Speed" value="S"/><property name="Structure" value="9"/><property name="Armor" value="2"/><property name="Attack" value="2"/><property name="Text">Alpha Strike: +2 attack
+ 
+&amp;lt;i&amp;gt;Created as the "ultimate 'Mech", it has since been overshadowed.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="1"/></card><card id="07c760e5-2f71-4fbf-9582-acae02dd52de" name="Orion (ON1-M)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Marik"/><property name="Speed" value="S"/><property name="Structure" value="9"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">Missile 1
+
+&lt;b&gt;NARC&lt;/b&gt; (You may subtract 1 from each of your missile rolls
+if the missiles are assigned by a 'Mech in a group that
+includes at least one NARC 'Mech.)
+ 
+&amp;lt;i&amp;gt;Aleksandr Kerensky piloted an ON1-M.&amp;lt;/i&amp;gt;</property><property name="Cost" value="6"/><property name="A" value="2"/><property name="T" value="1"/></card><card id="7be9807b-5806-406a-9683-7c00eca3a447" name="Overwhelm"><property name="Type" value="Mission"/><property name="Allegiance" value="Inner Sphere"/><property name="Text">Choose an engaged 'Mech opponent controls. All of your
+'Mechs deal damage only to that 'Mech. Each of your 'Mechs
+gets +2 attack.
+ 
+&amp;lt;i&amp;gt;The old ways of war are dead, Father, and we must adopt, or die".|Kanrei Theodore Kurita, Luthien, 26 Dec 3051&amp;lt;/i&amp;gt;</property></card><card id="afe4f1d3-f023-464e-bb7f-a22fbe166e8c" name="Panther (PNT-9R)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="S"/><property name="Structure" value="4"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Panthers&amp;lt;/i&amp;gt; heavy armament it a fovorite of Kurita MechWarriors.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/></card><card id="50b20f21-54f0-4622-873a-c00a7fa8b2da" name="Perimeter Alarm"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Play Perimeter Alarm only on a site.
+Patrolling 'Mechs may block attacks against the site
+Perimeter Alarm enhances, regardless of their speed.
+You may deploy Perimeter Alarm revealed to make an
+additional deployment this turn.
+ 
+&amp;lt;i&amp;gt;Sure those sensors helped. We had lots of warning before they creamed us!|Hauptmann Galen Cox, 12th Donegal Guards, Trell I, 17 Apr 3050&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="2"/><property name="L" value="4"/></card><card id="940985ae-870c-42d0-90fc-37f5076f0c39" name="Phantom Signal"><property name="Type" value="Command"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">{T}: Roll a die: 1-2, current attack is redirected to Phantom Signal; 3-6, no effect. Use this ability only before assigning blockers.
+ 
+&amp;lt;i&amp;gt;Our blip should show up on their radar any minute now, sir.|Unidentified intercepted transmission&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="3"/><property name="L" value="2"/></card><card id="3d425e34-7e8f-463f-9507-33208eeb67c1" name="Phelan"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Clan - Wolf"/><property name="Structure" value="2"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T} +1 initiative. Use this ability only during a mission.
+{T}: Restock a card you have just drawn and draw another
+card. Use this ability only during your Draw phase.
+Scrap Phelan from play to restock three cards, in any order,
+from the top of your Scrapheap.
+ 
+
+
+&lt;b&gt;• Bondsman&lt;/b&gt;</property><property name="Cost" value="3"/><property name="P" value="4"/></card><card id="094c554d-8386-4a3e-9f08-d045a506631c" name="Point Defense System"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Play Point Defense System only on a site. Point Defense Systems prevents all missile damage to that site. When that site is damaged, attacker may choose to redirect 4 of that damage to Point Defense System, scrapping it. Point Defense System cannot be attacked.
+
+You may deploy Point Defense System revealed to make an additional deployment this turn.</property><property name="Cost" value="0"/><property name="A" value="2"/><property name="L" value="2"/></card><card id="319a4a8a-cdf1-4eb3-8411-adaace899c60" name="Pryde's Pride"><property name="Type" value="Mission"/><property name="Allegiance" value="Clan - Jade Falcon"/><property name="Text">Choose a 'Mech.  Until end of mission, if that 'Mech is scrapped, roll a die: 1, no effect; 2, draw a card after mission;
+3-6, each 'Mech that dealt damage to that 'Mech receives 2 structure damage.
+ 
+</property></card><card id="7f1ba9d2-03e0-4d08-b493-e190c7f26d99" name="Puma A (Adder)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="1"/><property name="Text">Missile 3
+ 
+&amp;lt;i&amp;gt;Speed and long-range weapons make this a potent 'Mech.&amp;lt;/i&amp;gt;</property><property name="Cost" value="3"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="2f21dc01-e5b7-4f73-9f96-b10e39d6f529" name="Puma C (Adder)"><property name="Type" value="Unit"/><property name="Allegiance" value="Omni - Clan"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Missile 2
+
+&lt;b&gt;NARC&lt;/b&gt; (You may subtract 1 from each of your missile rolls
+if the missiles are assigned by a 'Mech in a group that
+includes at least one NARC 'Mech.)
+ 
+&amp;lt;i&amp;gt;With missiles, this 'Mech can muster a withering fusillade.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="2"/><property name="T" value="2"/></card><card id="1b5de4f8-4430-4ac0-a333-a5058d70eb62" name="Puma Prime (Adder)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="4"/><property name="Text">Overheat 2: +2 attack
+
+If Puma Prime attacks and is blocked, it may deal up to 3 of
+its damage to the target.
+ 
+&amp;lt;i&amp;gt;This light 'Mech was code-named &amp;lt;i&amp;gt;Puma&amp;lt;/i&amp;gt; for its ferocity.&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/><property name="A" value="2"/><property name="M" value="1"/></card><card id="7506034e-bfa6-4b5b-b2bc-bd7e582b030d" name="Pushing the Envelope"><property name="Type" value="Mission"/><property name="Text">One of your 'Mechs gets +3 attack and receives 3 damage.
+ 
+</property></card><card id="f82b7bd9-9fc6-407c-926a-aeadab73e368" name="Quickdraw (QKD-4G)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="4"/><property name="Armor" value="2"/><property name="Attack" value="2"/><property name="Text">Overheat 4: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;The disappointing &amp;lt;i&amp;gt;QKD-4G&amp;lt;/i&amp;gt; was built to replace older 'Mechs.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="1154d063-bc8e-4081-a013-2ab6d18fc7e8" name="Quickdraw (QKD-5M)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="2"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;Double heat sinks have overcome this 'Mech's main problem: heat.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="2"/></card><card id="65125141-7628-4d90-8711-b3e21e290a83" name="Rampage!"><property name="Type" value="Mission"/><property name="Text">Play only if unblocked.
+
+Scrap one card from your Stockpile and roll a die: 1-6, one of
+your attacking 'Mechs gets +(1-6) attack.
+ 
+</property></card><card id="18978c71-932f-452a-a98c-b7f5018df500" name="Rapid Cool-Down"><property name="Type" value="Mission"/><property name="Text">Roll a die: 1-3, 'Mechs do not receive Overheat damage;
+4-6, 'Mechs do not receive Overheat damage and return
+Rapid Cool-Down to your hand after mission.
+ 
+</property></card><card id="c913479a-2f47-405f-8ce7-eca4f9d8f7de" name="Raven (RVN-3L)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Liao"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;NARC&lt;/b&gt; (You may subtract 1 from each of your missile rolls
+if the missiles are assigned by a 'Mech in a group that
+includes at least one NARC
+
+&lt;b&gt;ECM&lt;/b&gt; (Each 'Mech in a group that includes at least one 'Mech
+with ECM gets +1 armor.)</property><property name="Cost" value="2"/><property name="T" value="3"/></card><card id="886ce823-6eb5-4d9e-98dc-75eceb90b140" name="Reassigned Pilot"><property name="Type" value="Mission"/><property name="Text">Roll a die: 1-3, reassign a pilot from one of your untapped
+'Mechs to another one of your 'Mechs; 4-6, reassign a pilot
+from one of your untapped 'Mechs to another one of your
+'Mechs and return Reassigned Pilot to your hand after mission.
+ 
+</property></card><card id="e105f82e-bcc8-4a8e-b989-04bef40e65c6" name="Report from the Watch"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge - Clan - Wolf"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Report from the Watch when it is revealed. Look at the top five cards of any Stockpile. Either return those cards in any order or shuffle those cards into that Stockpile.
+ 
+</property><property name="Cost" value="0"/><property name="P" value="3"/></card><card id="f6d1a0a1-db2f-4781-be4f-57b91608ee40" name="Retrieve Lost 'Mech"><property name="Type" value="Command"/><property name="Allegiance" value="Operation"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="0"/><property name="Text">Put three operation counters on Retrieve Lost 'Mech  when you activate it.  Remove an operation counter at the beginning of your turn.
+
+When the last operation counter has been removed, scrap Retrieve Lost 'Mech and return a 'Mech from your Scrapheap to play under your control with damage counters equal to one less than that 'Mech's structure.</property><property name="Cost" value="2"/><property name="A" value="4"/></card><card id="bc589b0b-6ae0-496d-81a2-b3f9a0db5f65" name="Retrofitted Laser System"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Play Retrofitted Laser System only on a 'Mech with a base attack of at least 1.  That 'Mech has -1 attack and Overheat 2: +3 attack.
+
+You may deploy Retrofitted Laser System revealed to make an additional deployment this turn.
+ 
+</property><property name="Cost" value="1"/><property name="M" value="4"/></card><card id="ef97e79c-7510-45b5-9ef5-28bdcf8c53cf" name="Retrofitted Missile Rack"><property name="Type" value="Command"/><property name="Allegiance" value="Enhancement"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Play Retrofitted Missile Rack only on a 'Mech with a base attack of at least 1.  That 'Mech has -1 attack and Missile 2.
+
+You may deploy Retrofitted Missile Rack revealed to make an additional deployment this turn.
+ 
+</property><property name="Cost" value="2"/><property name="M" value="3"/></card><card id="ee948a8c-768e-4abd-9de7-622aa65224a7" name="Romano Liao"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Liao - Inner Sphere"/><property name="Structure" value="2"/><property name="Armor" value="4"/><property name="Attack" value="1"/><property name="Text">{T}: Reveal the top card of opponent's Stockpile. If that card is a Resource, your opponent deploys it immediately. If it is not a Resource card, scrap it. Use this ability only during your Missions phase but not during a mission. 
+
+&lt;b&gt;• Chancellor of the Capellan Confederation&lt;/b&gt;</property><property name="Cost" value="0"/><property name="P" value="2"/></card><card id="f1dadfaf-2659-40fa-bdd7-a265fd25637f" name="Rookie Pilot"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="-3"/><property name="Text">&lt;b&gt;Pilot&lt;/b&gt;: -3 attack.
+Play Rookie Pilot only on a 'Mech opponent controls that
+does not currently have a pilot.
+Rookie Pilot cannot be reassigned.
+ 
+</property><property name="Cost" value="2"/><property name="P" value="6"/></card><card id="91995d7a-24a5-4917-98d7-dc360877beaa" name="Running Battle"><property name="Type" value="Mission"/><property name="Text">Play only during battle.
+
+For each slow 'Mech, roll a die: 1-3, no effect; 4-6, that slow
+'Mech neither deals nor receives damage.
+ 
+</property></card><card id="90b8e22d-5130-4c0c-a5af-ce4e44029737" name="Ryoken A (Storm Crow)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Smoke Jaguar"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="7"/><property name="Text">Missile 1
+
+Overheat 2: +2 attack
+ 
+&amp;lt;i&amp;gt;Accurate weapons and speed combine to make this 'Mech exceedingly lethal.&amp;lt;/i&amp;gt;</property><property name="Cost" value="11"/><property name="A" value="3"/><property name="M" value="1"/></card><card id="402d3809-c578-416f-bff8-6602369288be" name="Ryoken D (Storm Crow)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Smoke Jaguar"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="1"/><property name="Text">Missile 3
+
+&lt;b&gt;NARC&lt;/b&gt; (You may subtract 1 from each of your missile rolls
+if the missiles are assigned by a 'Mech in a group that
+includes at least one NARC 'Mech.)
+ 
+&amp;lt;i&amp;gt;Speed fire power support make this 'Mech quite versatile.&amp;lt;/i&amp;gt;</property><property name="Cost" value="6"/><property name="A" value="3"/></card><card id="b0060143-a95a-459a-b452-516956268615" name="Ryoken Prime (Storm Crow)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="6"/><property name="Text">&amp;lt;i&amp;gt;Smoke Jaguar MechWarriors value the &amp;lt;i&amp;gt;Ryoken&amp;lt;/i&amp;gt; for its speed and firepower.&amp;lt;/i&amp;gt;</property><property name="Cost" value="7"/><property name="A" value="1"/></card><card id="e1fd17bb-c487-4ad3-809a-7052f242373f" name="Sabotaged Heat Sinks"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Sabotaged Heat Sinks when it is revealed.  You may activate Sabotaged Heat Sinks when a 'Mech overheats.
+Deal triple Overheat damage to that 'Mech.
+Draw a card when you reveal Sabotaged Heat Sinks.
+ 
+</property><property name="Cost" value="0"/><property name="P" value="5"/></card><card id="78f4765f-22b8-46f2-b57b-dd61dfdcee1a" name="Sabotaged Missiles"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Sabotaged Missiles when it is revealed.
+You may activate Sabotaged Missiles when a 'Mech assigns
+missiles.  Those missiles deal double damage to that 'Mech
+instead of dealing damage to their target.
+Draw a card when you reveal Sabotaged Missiles.
+ 
+</property><property name="Cost" value="0"/><property name="P" value="5"/></card><card id="ff92a9fe-7af8-41f1-aa6e-1de923b831e9" name="Sabotage 'Mech"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Sabotage 'Mech when it is revealed.
+Deal 1 damage to one 'Mech for each 2 construction above
+the cost of Sabotage.
+ 
+</property><property name="Cost" value="1"/><property name="P" value="5"/></card><card id="61d9b877-6651-4b59-91d2-10ae94b9eb88" name="Sacrifice for the Dragon!"><property name="Type" value="Mission"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Text">Choose one of your 'Mechs. Roll a die: 1-2, draw a card after
+mission; 3-5, that 'Mech gets +2 attack and receives 1
+damage; 6, that 'Mech gets +6 attack and receives 2 damage.
+ 
+</property></card><card id="7dc2d36b-8903-4fdb-8cd1-f71ec84bfb4f" name="SAFE Report"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge - Marik - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap SAFE Report when it is revealed.
+Look at opponent's hand. Draw a card.
+ 
+</property><property name="Cost" value="0"/></card><card id="4d7da13c-0828-4aee-a2d3-bb9f33886350" name="Salvage Strike Crew"><property name="Type" value="Command"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Salvage Strike Crew when it is revealed.
+Return a card from your Scrapheap to your hand.
+ 
+</property><property name="Cost" value="2"/><property name="L" value="2"/></card><card id="2d0ff1ef-b01a-4993-890e-db2f55745e90" name="Satchel Charges"><property name="Type" value="Mission"/><property name="Text">Play only when unblocked.
+
+Choose an attacking 'Mech. Roll a die: 1-2, draw a card after
+mission; 3-6, that 'Mech gets +2 attack for each card you scrap
+from your hand. You cannot scrap more than three cards in
+this way.</property></card><card id="b22c6fcc-2497-408c-90f1-2c595006bc5c" name="Saturation Bombing"><property name="Type" value="Command"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Saturation Bombing when it is revealed. Deal 1 damage to one site for each 2 construction above the cost of Saturation Bombing.
+ 
+</property><property name="Cost" value="2"/><property name="P" value="7"/></card><card id="1ccbf6a3-7b42-4ee3-ab6a-cd48fa9bd0e6" name="Scrounger Crew"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="1"/><property name="Armor" value="3"/><property name="Attack" value="0"/><property name="Text">{T}: Scrap a card from your Stockpile to gain {R}{R}.
+ 
+</property><property name="Cost" value="1"/></card><card id="5093e5cf-685f-40d3-a7c1-d8786f102dd3" name="Sentinel (STN-3M)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Sentinel&amp;lt;/i&amp;gt; was designed specifically to support infantry.&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="2"/><property name="M" value="1"/></card><card id="cbd86dd9-7e14-4ffc-90b0-309ad56646f2" name="Shady Business"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Shady Business when it is revealed.
+
+Hide up to nine counters. If opponent guesses how many
+counters you have hidden, scrap that many cards from your
+Stockpile. Otherwise, opponent scraps that many cards from
+his or her Stockpile.
+
+Scrap a card from your Stockpile at the beginning of each of
+your turns until end of game.</property><property name="Cost" value="5"/><property name="P" value="5"/><property name="L" value="2"/></card><card id="6a872dbb-3ad7-4e14-aa3e-4b7bcaa56902" name="Shogun (SHG-2F)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Wolf's Dragoons"/><property name="Speed" value="S"/><property name="Structure" value="8"/><property name="Armor" value="3"/><property name="Attack" value="3"/><property name="Text">Missile 1
+
+Overheat 3: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;This extremly rare BattleMech is found only with Wolf's Dragoons.&amp;lt;/i&amp;gt;</property><property name="Cost" value="5"/><property name="A" value="2"/><property name="T" value="2"/></card><card id="f47792e3-4ee8-4d6d-94c4-34345e12a266" name="Silver Sunburst Pilot"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot - Davion - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Pilot&lt;/b&gt; +1 initiative
+Roll a die: 1-3, 'Mech piloted by Silver Sunburst Pilot gets
++(1-3) attack; 4-6, no effect. Use this ability only during a
+mission.
+ 
+</property><property name="Cost" value="0"/><property name="T" value="2"/></card><card id="fef8e7e7-e937-4b27-8af8-05753117b268" name="Specialized Project Team"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+Scrap Specialized Project Team to draw a card. Use this
+ability only during your Deploy phase.
+ 
+</property><property name="Cost" value="0"/></card><card id="97bedeb7-ae2b-450d-a04f-4ca228754453" name="Special Forces Op"><property name="Type" value="Mission"/><property name="Text">Roll a die: 1-3, draw a card after mission; 4-6, triple all
+damage dealt to a card under construction.
+ 
+</property></card><card id="f1a9f0db-e83f-4713-b0bd-229e91823f9c" name="Spider (SDR-5V)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="F"/><property name="Structure" value="3"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+You may deploy &amp;lt;i&amp;gt;Spider&amp;lt;/i&amp;gt; revealed to make an additional
+deployment this turn.
+ 
+&amp;lt;i&amp;gt;A triumph of 'Mech design, the Spider boast unmatched maneuverability.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/><property name="L" value="1"/></card><card id="83772a05-65b0-4650-952e-ba659967a87a" name="Stalker (STK-3F)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="3"/><property name="Attack" value="2"/><property name="Text">Missile 1
+
+Overheat 3: +4 attack
+ 
+&amp;lt;i&amp;gt;Produced during the Reunification War, it's the most common assault 'Mech.&amp;lt;/i&amp;gt;</property><property name="Cost" value="6"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="417d968b-18d5-4293-8654-498fa1e2f117" name="Stalker (STK-5M)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Marik"/><property name="Speed" value="S"/><property name="Structure" value="8"/><property name="Armor" value="3"/><property name="Attack" value="4"/><property name="Text">Missile 1
+
+Overheat 1: +1 attack
+
+&lt;b&gt;NARC&lt;/b&gt; (You may subtract 1 from each of your missile rolls
+if the missiles are assigned by a 'Mech in a group that
+includes at least one NARC 'Mech.)</property><property name="Cost" value="9"/><property name="A" value="2"/><property name="M" value="2"/><property name="T" value="1"/></card><card id="d43ab0d4-9df6-4650-b817-424271658a66" name="Steal 'Mech"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge  -  Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Steal 'Mech when it is revealed.
+Choose a 'Mech opponent controls. You and that opponent
+each hide a number of counters. Reveal those counters. If
+you reveal more counters, you gain control of that 'Mech and
+scrap cards from your Stockpile equal to twice your number
+of counters. If your opponent has more counters, opponent
+scraps cards from his or her Stockpile equal to his or her
+number of counters and controls that 'Mech.</property><property name="Cost" value="4"/><property name="P" value="6"/></card><card id="9d040efb-0411-4c0d-81e4-5ba3635a70a1" name="Strength of the Pillar of Steel"><property name="Type" value="Mission"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Text">Play only when blocking.
+
++1 initiative
+
+Prevent 1 damage to each blocking 'Mech.
+ 
+&amp;lt;i&amp;gt;The proper business of the warrior is death. His only concern must be to destroy the enemy, or else to die fighting.&amp;lt;i&amp;gt;|Dictum Honorium &amp;lt;/i&amp;gt;Volume II, On Proper Behavior of the Warrior&amp;lt;/i&amp;gt;</property></card><card id="c30e6b56-c583-482a-981e-79d5f4f69572" name="Studied Move"><property name="Type" value="Mission"/><property name="Text">Return a Mission card from your Scrapheap to your hand.
+ 
+&amp;lt;i&amp;gt;You can turn any battle into a chess game. Just move the pieces the right way and you'll win.|Captain Valten Ryder, 1st Somerset Strikers&amp;lt;/i&amp;gt;</property></card><card id="e4986521-d6a3-4f18-80ba-39afc631b837" name="Subhash Indrahar"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Inner Sphere - Kurita"/><property name="Structure" value="2"/><property name="Armor" value="4"/><property name="Attack" value="1"/><property name="Text">{T}: You may claim a card you have just drawn is a Subterfuge card and draw an additional card. If opponent challenges this claim, reveal the first card. If that card is a Subterfuge card, opponent scraps five cards from his or her Stockpile. If it is not a Subterfuge card, you scrap both drawn cards. Use this ability only during your Draw phase.
+
+&lt;b&gt;• Director, Internal Security Force&lt;/b&gt;</property><property name="Cost" value="1"/><property name="P" value="6"/></card><card id="f2a433ff-b538-42fd-8916-4c92b575e249" name="Sun Zhang MechWarrior Academy"><property name="Type" value="Command"/><property name="Allegiance" value="Resource - Inner Sphere - Kurita"/><property name="Structure" value="2"/><property name="Armor" value="5"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+{T}: +1 initiative. Use this ability only during a mission.
+
+&lt;b&gt;Tactics&lt;/b&gt; (If you have Tactics in play, add +1 to your
+initiative.)
+ 
+&amp;lt;i&amp;gt;We are the best and brightest of the warriors who serve the Dragon.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/></card><card id="bed396a2-e387-45d2-bb09-593b1df4667d" name="Support - Assembly (version 3)"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="3"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+&lt;b&gt;Assembly&lt;/b&gt; (During your Repair/Reload phase, you may pay
+{R} once to repair 1 point of damage to one 'Mech if you have
+Assembly in play)
+ 
+&amp;lt;i&amp;gt;Their job is to make 'em faster than we can break 'em.&amp;lt;i&amp;gt;|&amp;lt;/i&amp;gt;Anonymous MechWarrior&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/></card><card id="3cdc3a06-87fa-4fcb-a1f7-cb58e1f22df9" name="Support - Logistics (Version 3)"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="3"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+Logistics (If you have Logistics in play, you may restock a
+card from your hand at end of your turn.)
+
+&amp;lt;i&amp;gt;A military force is nothing without merchants willing to risk their assets for the good of the war effort.| Prince Hanse Davion, Outreach, 20 Jan 3051&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/></card><card id="38061166-8357-489c-95b8-86b027e2713e" name="Support - Munitions (version 3)"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="3"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+&lt;b&gt;Munitions&lt;/b&gt; (If you have Munitions in play and you roll a 3
+on a missile roll, that missile volley deals 3 damage)
+ 
+</property><property name="Cost" value="0"/></card><card id="85c52a65-9c1a-4c25-9697-def6ff98e1ff" name="Support - Politics (version 3)"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="3"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+ 
+</property><property name="Cost" value="0"/></card><card id="c4cad02b-174d-48c4-9aa7-c13274e12a94" name="Support - Tactics (version 3)"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="3"/><property name="Armor" value="4"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+&lt;b&gt;Tactics&lt;/b&gt; (If you have Tactics in play, add +1 to your initiative)
+ 
+</property><property name="Cost" value="0"/></card><card id="c8c1a7eb-a966-4729-85f4-8f531ad62279" name="Takashi Kurita"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Inner Sphere - Kurita"/><property name="Structure" value="2"/><property name="Armor" value="4"/><property name="Attack" value="1"/><property name="Text">+1 initiative
+
+Opponent cannot attack more than once per turn. Attacks that target Takashi Kurita do not count toward this limit. 
+
+&lt;b&gt;• Coordinator of the Draconis Combine&lt;/b&gt;</property><property name="Cost" value="5"/><property name="T" value="3"/><property name="P" value="6"/></card><card id="83c2dd43-65fb-4cc2-a96b-f76cddb59f99" name="Teachings of the Unfinished Book"><property name="Type" value="Command"/><property name="Allegiance" value="Inner Sphere - Davion"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Teachings of the Unfinished Book when it is revealed.
++2 initiative until beginning of your next turn.
+ 
+</property><property name="Cost" value="0"/></card><card id="a1366a8e-0066-432f-8992-d1f57d525c6f" name="Temporary Cease-Fire"><property name="Type" value="Mission"/><property name="Text">Play only during battle.
+
+Roll a die: 1, your 'Mechs deal no damage and draw a card after mission; 2-6, all 'Mechs deal no damage.
+ 
+</property></card><card id="a91d6da1-df1a-4089-8af8-84ac45d8feb4" name="Theodore Kurita"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Inner Sphere - Kurita"/><property name="Structure" value="2"/><property name="Armor" value="4"/><property name="Attack" value="1"/><property name="Text">{T}: You may make one additional deployment this turn. Use this ability only during your Deploy phase.
+
+&lt;b&gt;Tactics&lt;/b&gt; (If you have Tactics in play, add +1 to your initiative.)
+
+&lt;b&gt;• Gunji-no-Kanrei (Deputy for Military Affairs)&lt;/b&gt;</property><property name="Cost" value="3"/><property name="T" value="5"/></card><card id="9eb3311d-267e-4065-ae7a-ab57587238fb" name="Think Tank"><property name="Type" value="Command"/><property name="Allegiance" value="Resource"/><property name="Structure" value="1"/><property name="Armor" value="5"/><property name="Attack" value="0"/><property name="Text">{T}: {R}
+
+Scrap Think Tank to gain &lt;b&gt;A&lt;/b&gt;, &lt;b&gt;L&lt;/b&gt;, &lt;b&gt;M&lt;/b&gt;, &lt;b&gt;P&lt;/b&gt;, or &lt;b&gt;T&lt;/b&gt; until end of game.
+ 
+</property><property name="Cost" value="0"/></card><card id="d41c091d-2488-4b55-9bc5-1b596389ea57" name="Thomas Marik"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Marik - Inner Sphere"/><property name="Structure" value="2"/><property name="Armor" value="4"/><property name="Attack" value="1"/><property name="Text">{T}: +1 initiative
+
+{T}: Draw a card. Use this ability only during your Draw phase.
+
+
+
+&lt;b&gt;• Captain-General, Free Worlds League&lt;/b&gt;</property><property name="Cost" value="4"/><property name="P" value="6"/></card><card id="be5d675b-137b-40c6-a677-bd449c501682" name="Thor A (Summoner)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="5"/><property name="Text">Overheat 4: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;Extremely heat efficient, this 'Mech is a renowned close-in fighter.&amp;lt;/i&amp;gt;</property><property name="Cost" value="6"/><property name="A" value="3"/></card><card id="3f9dfcb4-47d2-4f4b-9687-eeaaeeeb2da2" name="Thor B (Summoner)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Jade Falcon"/><property name="Speed" value="M"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">Missile 2
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group that includes &amp;lt;i&amp;gt;Thor&amp;lt;/i&amp;gt; B deals -1 damage.)
+
+&lt;b&gt;NARC&lt;/b&gt; (You may subtract 1 from each of your missile rolls if the missiles are assigned by a 'Mech in a group that includes at least one NARC 'Mech.)</property><property name="Cost" value="12"/><property name="T" value="1"/><property name="L" value="1"/></card><card id="b0e9f810-24b9-4845-9bbe-364483cf849d" name="Thor C (Summoner)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Jade Falcon"/><property name="Speed" value="M"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="6"/><property name="Text">Alpha Strike: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;Its massive AC and missiles give this configuration advantages in battle.&amp;lt;/i&amp;gt;</property><property name="Cost" value="8"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="a8a95427-192c-4b22-b0bc-6b97b88ad93b" name="Thor D (Summoner)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Jade Falcon"/><property name="Speed" value="M"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="6"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group
+that includes &amp;lt;i&amp;gt;Thor&amp;lt;/i&amp;gt; D deals -1 damage.)
+
+If Thor D attacks and is blocked, it may deal up to 2 of its
+damage to the target.</property><property name="Cost" value="6"/><property name="A" value="1"/><property name="M" value="2"/><property name="T" value="1"/></card><card id="0dd149cb-b1b4-43a9-ac21-96fe9c94a56f" name="Thor Prime (Summoner)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="6"/><property name="Armor" value="2"/><property name="Attack" value="5"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;This quick-striking 'Mech is used primarly by the Jade Falcons.&amp;lt;/i&amp;gt;</property><property name="Cost" value="6"/></card><card id="e15c4542-4b14-4df6-9da0-97d3c21c9642" name="Thug (THG-11E)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="8"/><property name="Armor" value="3"/><property name="Attack" value="4"/><property name="Text">Alpha Strike: +1 attack
+ 
+&amp;lt;i&amp;gt;Designed as a heavy assault 'Mech, it failed in that regard.&amp;lt;/i&amp;gt;</property><property name="Cost" value="6"/><property name="A" value="1"/></card><card id="6796d436-8d95-4058-a07f-e5cefd9dac38" name="Topple"><property name="Type" value="Mission"/><property name="Allegiance" value="Inner Sphere"/><property name="Text">Choose an engaged 'Mech opponent controls. Roll a die: 1-4, deal 1 damage to that 'Mech and draw a card after mission; 5-6, prevent all damage dealt by that 'Mech.
+ 
+</property></card><card id="40289f09-999d-49b7-a6c3-75c4579d3004" name="Treachery!"><property name="Type" value="Command"/><property name="Allegiance" value="Subterfuge"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">Scrap Treachery! when it is revealed.
+Next turn, each 'Mech opponent controls able to attack your
+Stockpile must do so.
+ 
+</property><property name="Cost" value="1"/><property name="P" value="6"/></card><card id="65e6704d-744d-4b08-82ad-bb3ec9edd2ad" name="Trebuchet (TBT-5N)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">Missile 1
+
+Overheat 2: +2 attack
+ 
+&amp;lt;i&amp;gt;An adequate 'Mech for both long- and short-range fire support.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="c0274845-a628-4c2a-82d3-09d4a9143a77" name="Trebuchet (TBT-7M)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Marik"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Missile 1
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+&lt;b&gt;NARC&lt;/b&gt; (You may subtract 1 from each of your missile rolls
+if the missiles are assigned by a 'Mech in a group that
+includes at least one NARC 'Mech.)</property><property name="Cost" value="4"/><property name="A" value="1"/><property name="T" value="2"/></card><card id="de7cb260-b62e-4db6-89ae-db2c2fa65c2d" name="Tsen Shang"><property name="Type" value="Command"/><property name="Allegiance" value="Unique - Inner Sphere - Liao"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">{T}: Restock a card from your hand and draw a card. Use this ability only during your Draw phase. 
+
+
+
+&lt;b&gt;• Director Maskirovka&lt;/b&gt;</property><property name="Cost" value="0"/><property name="P" value="3"/></card><card id="0ef10f84-545b-46b3-954a-8a8c5365e7bb" name="Uller B (Kit Fox)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="4"/><property name="Armor" value="0"/><property name="Attack" value="3"/><property name="Text">Alpha Strike: +2 attack
+ 
+&amp;lt;i&amp;gt;Similar to the &amp;lt;i&amp;gt;Uller&amp;lt;/i&amp;gt; Prime, most of its differences are subtle.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="4e9eb6ef-ba9b-4506-b70a-25b82066853f" name="Uller C (Kit Fox)"><property name="Type" value="Unit"/><property name="Allegiance" value="AP - Clan - Omni - Jade Falcon"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Anti-Missile&lt;/b&gt; (Each missile assigned to a 'Mech in a group
+that includes Uller C deals -1 damage.)
+
+&lt;b&gt;ECM&lt;/b&gt; (Each 'Mech in a group that includes at least one
+'Mech with ECM gets +1 armor.)
+
+&lt;b&gt;AP&lt;/b&gt; (Uller C deals +1 damage to any target other than a
+'Mech.)</property><property name="Cost" value="1"/><property name="A" value="2"/><property name="M" value="1"/><property name="T" value="1"/></card><card id="c49037be-0263-4c2d-8628-7e58f19b0cd0" name="Uller D (Kit Fox)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni - Jade Falcon"/><property name="Speed" value="M"/><property name="Structure" value="3"/><property name="Armor" value="1"/><property name="Attack" value="0"/><property name="Text">Missile 3
+ 
+&amp;lt;i&amp;gt;Its reliance on ammunition is one reason this 'Mech is uncommon.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/></card><card id="c1725947-f424-4fc7-86b6-843de05095eb" name="Uller Prime (Kit Fox)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="4"/><property name="Armor" value="0"/><property name="Attack" value="4"/><property name="Text">&amp;lt;i&amp;gt;This light 'Mech is named for the Norse god of archery.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="cabaae22-44ab-4d9f-878f-228715f9d37d" name="UrbanMech (UM-R60)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Liao"/><property name="Speed" value="S"/><property name="Structure" value="4"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+
+UrbanMech cannot block unless guarding.
+ 
+&amp;lt;i&amp;gt;This light 'Mech's AC/10 makes it a formidable city fighter.&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="2"/><property name="M" value="1"/></card><card id="1b9a96bd-a650-4e5d-a845-60ce6d5514bd" name="Veteran MechWarrior"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Pilot:&lt;/b&gt; +1 initiative
+Untap 'Mech piloted by Veteran MechWarrior at end of
+your turn.
+
+</property><property name="Cost" value="1"/><property name="T" value="2"/></card><card id="11b52d6d-cdb9-4a42-ae42-f78e550aac42" name="Victor (VTR-9B)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">Alpha Strike: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;Jump Jets and AC/20 enable the &amp;lt;i&amp;gt;Victor&amp;lt;/i&amp;gt; to best most opponents.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="3"/></card><card id="11cc2dc7-f428-4f90-9424-c52d4554e420" name="Victor (VTR-9K)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion - Kurita"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="4"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;Victor Ian Steiner-Davion pilots a ''VTR-9K.'&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="3"/></card><card id="c1d02a1c-e6d3-4bbd-9600-cf8d543b2e84" name="Victor Steiner Davion"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot - Unique - Inner Sphere - Steiner - Davion"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="0"/><property name="Text">&lt;b&gt;Pilot:&lt;/b&gt;
+
+'Mech piloted by Victor Steiner-Davion cannot attack or block alone. Each 'Mech in a group that includes 'Mech piloted by Victor Steiner-Davion gets +2 attack.
+
+&lt;b&gt;• Archon-Prince Designate of the Federated Commonwealth&lt;/b&gt;</property><property name="Cost" value="5"/><property name="T" value="6"/></card><card id="a180e33b-6cb9-4fb0-a39e-ac6bfd5d8de4" name="Vindicator (VND-1R)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Liao"/><property name="Speed" value="S"/><property name="Structure" value="6"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;The Smasher PPC allows the &amp;lt;i&amp;gt;Vindicator&amp;lt;/i&amp;gt; to inflict heavy damage.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="6105bfd6-b022-45e9-868d-b9d01c23fae1" name="Vulcan (VT-5M)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Marik"/><property name="Speed" value="M"/><property name="Structure" value="4"/><property name="Armor" value="0"/><property name="Attack" value="2"/><property name="Text">&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;With increased weaponry and heat sinks, the new &amp;lt;i&amp;gt;Vulcan&amp;lt;/i&amp;gt; is impressive.&amp;lt;/i&amp;gt;</property><property name="Cost" value="0"/><property name="A" value="2"/><property name="M" value="2"/></card><card id="0da21f2c-38cd-4941-be9a-0e4d5e949f45" name="Vulture A (Mad Dog)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="6"/><property name="Text">Overheat 3: +5 attack
+ 
+&amp;lt;i&amp;gt;This configuration can fire a devastating volley of missile fire.&amp;lt;/i&amp;gt;</property><property name="Cost" value="12"/><property name="A" value="1"/><property name="M" value="3"/><property name="L" value="2"/></card><card id="64cb4f0d-1f9b-476e-857e-54609dbd83ba" name="Vulture B (Mad Dog)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="7"/><property name="Text">Missile 1
+
+Overheat 5: +5 attack
+ 
+&amp;lt;i&amp;gt;This design is a hybrid of the Prime and A configurations.&amp;lt;/i&amp;gt;</property><property name="Cost" value="13"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="d5f09949-cc7b-40b4-91cb-ebe8a9364a76" name="Vulture C (Mad Dog)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="4"/><property name="Text">If Vulture C attacks and is blocked, it may deal 1 of its
+damage to the target.
+ 
+&amp;lt;i&amp;gt;With a silhouette unlike any other Vulture, this 'Mech is deadly.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="1"/><property name="T" value="1"/></card><card id="db91064e-1f2b-4d3c-b7db-a56e37694530" name="Vulture Prime (Mad Dog)"><property name="Type" value="Unit"/><property name="Allegiance" value="Clan - Omni"/><property name="Speed" value="M"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="4"/><property name="Text">Missile 3
+
+Overheat 3: +2 attack
+ 
+&amp;lt;i&amp;gt;With its distinctive look, Kuritan MechWarriors labeled it Hagetaka, or ''Vulture.'&amp;lt;/i&amp;gt;</property><property name="Cost" value="9"/></card><card id="0467913b-d00a-4349-8d84-923e2b1e6f9a" name="Whitworth (WTH-1)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita - Davion"/><property name="Speed" value="S"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="1"/><property name="Text">Overheat 2: +2 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;WTH-1&amp;lt;/i&amp;gt; is an ideal light to medium fire-support unit.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="1"/><property name="T" value="1"/></card><card id="e95a1712-f40b-4da9-b5e6-cfbf7eaeb558" name="Whitworth (WTH-2)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Davion - Kurita"/><property name="Speed" value="S"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="1"/><property name="Text">Missile 1
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;WTH-2&amp;lt;/i&amp;gt; features highly accurate long-range missile fire.&amp;lt;/i&amp;gt;</property><property name="Cost" value="1"/><property name="A" value="2"/></card><card id="a2b9ab1f-ccfc-40de-908f-c2cd1b4555b2" name="Wolfhound (WLF-2)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Steiner - Davion"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="3"/><property name="Text">Overheat 2: +1 attack
+ 
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Wolfhound&amp;lt;/i&amp;gt; passed extensive field tests with flying colors.&amp;lt;/i&amp;gt;</property><property name="Cost" value="3"/></card><card id="e6ab62ad-4970-4b74-8de1-ed99bba23827" name="Wolf Dragoons Pilot"><property name="Type" value="Command"/><property name="Allegiance" value="Pilot - Mercenary - Inner Sphere"/><property name="Structure" value="0"/><property name="Armor" value="0"/><property name="Attack" value="1"/><property name="Text">&lt;b&gt;Pilot:&lt;/b&gt; +2 initiative, +1 attack
+
+</property><property name="Cost" value="1"/><property name="T" value="4"/></card><card id="aa722720-f39c-43a9-bb1f-eacb79aff133" name="Wolf Trap (WFT-1)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Kurita"/><property name="Speed" value="M"/><property name="Structure" value="5"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Alpha Strike: +2 attack
+ 
+&amp;lt;i&amp;gt;The &amp;lt;i&amp;gt;Wolf Trap&amp;lt;/i&amp;gt; was House Kurita's answer to the ''Wolfhound.'&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="3"/></card><card id="5c84ef8d-0c5f-4e96-ace4-9cf4236e9ac7" name="Wyvern (WVE-5N)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="1"/><property name="Attack" value="2"/><property name="Text">Overheat 1: +1 attack
+
+&lt;b&gt;Jump&lt;/b&gt; (-1 attack: +1 initiative)
+ 
+&amp;lt;i&amp;gt;Although designed for crowd control the &amp;lt;i&amp;gt;Wyvern&amp;lt;/i&amp;gt; was poorly suited to the task.&amp;lt;/i&amp;gt;</property><property name="Cost" value="2"/><property name="A" value="1"/><property name="M" value="1"/></card><card id="d5bbeff1-d014-4ed2-bf2f-8898e3577190" name="Zeus (ZEU-6S)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Steiner"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">Overheat 1: +1 attack
+
+&amp;lt;i&amp;gt;The ZEU-6S is the Lyran Commonwealth's pride and joy.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/></card><card id="21966a12-288f-4421-9045-28a44590b2db" name="Zeus (ZEU-9S)"><property name="Type" value="Unit"/><property name="Allegiance" value="Inner Sphere - Steiner - Davion"/><property name="Speed" value="S"/><property name="Structure" value="7"/><property name="Armor" value="2"/><property name="Attack" value="3"/><property name="Text">Overheat 2: +2 attack
+ 
+&amp;lt;i&amp;gt;Davion-style tactics dictated the upgrades of this Steiner favorite.&amp;lt;/i&amp;gt;</property><property name="Cost" value="4"/><property name="A" value="3"/></card></cards></set>
