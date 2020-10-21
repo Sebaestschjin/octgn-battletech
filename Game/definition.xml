@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<game name="Battletech - The Trading Card Game"
-      description="The Battletech TCG"
-      version="1.1.2.0"
+<game name="BattleTech - The Collectable Card Game"
+      description="The BattleTech CCG
+      &#xd;&#xd;&#xd;Icons made by Freepik from www.flaticon.com"
+      version="1.2.0.1"
       id="845bfe7f-477e-4c53-9526-6ffe2ceeb5d9"
       tags="battletech mech"
       setsurl="http://www.example.org"
-      gameurl="http://www.example.org"
-      iconurl="https://raw.github.com/kellyelton/Standard-Playing-Cards-Octgn/master/src/images/icon.jpg"
-      authors="Codegenerathor"
+      gameurl="https://github.com/Sebaestschjin/octgn-battletech"
+      iconurl="https://raw.githubusercontent.com/Sebaestschjin/octgn-battletech/main/Game/Resources/icon.jpg"
+      authors="Sebaestschjin"
       octgnVersion="3.4.217.0"
       scriptVersion="3.1.0.2"
       markersize="25">
